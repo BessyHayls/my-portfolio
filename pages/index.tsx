@@ -1,12 +1,12 @@
 import type { NextPage } from "next";
-import AboutMe from "./aboutMe";
-import LandingPage from "./landingPage";
-import Work from "./work";
-import UXResearchDesign from "./uxResearchDesign";
-import Uphoria from "./uphoria";
-import DFX from "./dfx";
-import Creative from "./creative";
-import Automotive from "./automotive";
+import AboutMe from "./AboutMe";
+import LandingPage from "./LandingPage";
+import Work from "./Work";
+import UXResearchDesign from "./UXResearchDesign";
+import Uphoria from "./Uphoria";
+import DFX from "./DFX";
+import Creative from "./Creative";
+import Automotive from "./Automotive";
 
 const BasePage: NextPage = () => {
 
