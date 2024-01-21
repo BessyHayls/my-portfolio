@@ -3,13 +3,6 @@
   position: absolute;
   opacity: 0.84;
 }
-.dfxChild {
-  top: 0;
-  left: 0;
-  background-color: var(--color-linen);
-  width: 1440px;
-  height: 122px;
-}
 .dfxItem {
   top: 3460px;
   left: -521px;
@@ -25,22 +18,7 @@
   height: 109px;
   object-fit: cover;
 }
-.vasilikiMinou {
-  position: absolute;
-  left: 60px;
-  font-size: var(--font-size-xl);
-}
-.aboutMe,
-.home,
-.vasilikiMinou {
-  top: 38px;
-  font-family: var(--font-italiana);
-}
-.home {
-  position: absolute;
-  left: 1082px;
-  font-size: var(--font-size-xl);
-}
+
 .aboutMe {
   left: 1187px;
 }
@@ -49,11 +27,6 @@
 .work {
   position: absolute;
   font-size: var(--font-size-xl);
-}
-.work {
-  top: 38px;
-  left: 1326px;
-  font-family: var(--font-italiana);
 }
 .aboutDrMartens {
   top: 430px;
@@ -69,7 +42,7 @@
 .skillsUserResearchContainer {
   position: absolute;
   top: 209px;
-  left: 953px;
+  right: 100px;
   white-space: pre-wrap;
   display: inline-block;
   width: 395px;
@@ -93,11 +66,11 @@
   top: 477px;
   left: 60px;
   display: inline-block;
-  width: 771px;
+  width: 80vw;
 }
 .theCompanysOriginalContainer {
   top: 754px;
-  width: 1091px;
+  width: 80vw;
 }
 .personaCustomer,
 .theCompanysOriginalContainer,
@@ -110,11 +83,10 @@
   top: 1062px;
   font-size: var(--font-size-xl);
   color: var(--color-blueviolet);
-  width: 376px;
 }
 .whileTheCompany {
   top: 1109px;
-  width: 1091px;
+  width: 80vw;
 }
 .dfxChild1,
 .dfxInner,
@@ -123,7 +95,7 @@
   top: 1262px;
   left: 0;
   background-color: var(--color-linen);
-  width: 1440px;
+  width: 100dvw;
   height: 430px;
   opacity: 0.3;
 }
@@ -141,12 +113,12 @@
   top: 1382px;
   left: 804px;
   display: inline-block;
-  width: 548px;
+  width: 40vw;
 }
 .oneDayAs {
   top: 1788px;
   left: 60px;
-  width: 1091px;
+  width: 80vw;
 }
 .customerJourneyMap3 {
   position: absolute;
@@ -174,7 +146,7 @@
   top: 2591px;
   left: 60px;
   display: inline-block;
-  width: 1091px;
+  width: 80vw;
 }
 .arrowIcon,
 .persona1Icon {

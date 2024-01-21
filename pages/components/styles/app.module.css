@@ -1,0 +1,5 @@
+.app {
+    font-size: var(--font-size-xl)!important;
+    color: var(--color-darkslateblue);
+    font-family: var(--font-italiana);
+}

@@ -26,4 +26,6 @@ body {
 
   /* Border radiuses */
   --br-lgi: 19px;
+  --br-sm: 14px;
+  --br-52xl: 71px;
 }

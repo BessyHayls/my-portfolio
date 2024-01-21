@@ -7,10 +7,6 @@ const Creative: NextPage = () => {
       <div className={styles.creativeChild} />
       <img className={styles.creativeItem} alt="" src="/vector-7.svg" />
       <img className={styles.creativeInner} alt="" src="/vector-6.svg" />
-      <div className={styles.vasilikiMinou}>Vasiliki Minou</div>
-      <div className={styles.home}>Home</div>
-      <div className={styles.aboutMe}>About Me</div>
-      <div className={styles.work}>Work</div>
       <div className={styles.illustrations}>Illustrations</div>
       <div className={styles.exploreASpecial}>
         Explore a special section in my portfolio that captures my creative
@@ -27,7 +23,7 @@ const Creative: NextPage = () => {
       <div className={styles.creativeChild3} />
       <img className={styles.arrowIcon} alt="" src="/arrow-3.svg" />
       <div className={styles.creativeChild4} />
-      <img className={styles.savvaki33Icon} alt="" src="/savvaki3-3@2x.png" />
+      <img className={styles.savvaki33Icon} alt="" src="/savvaki3-1@2x.png" />
       <img
         className={styles.theodosakimou1Icon}
         alt=""

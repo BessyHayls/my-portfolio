@@ -11,10 +11,6 @@ const Work: NextPage = () => {
     <div className={styles.work}>
       <div className={styles.workChild} />
       <img className={styles.workItem} alt="" src="/vector-2.svg" />
-      <div className={styles.vasilikiMinou}>Vasiliki Minou</div>
-      <div className={styles.home}>Home</div>
-      <div className={styles.aboutMe}>About Me</div>
-      <div className={styles.work1}>Work</div>
       <div className={styles.automotiveDesignBox}>
         <div className={styles.automotive}>
           <div className={styles.automotiveChild} />

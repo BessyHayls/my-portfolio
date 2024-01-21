@@ -1,40 +1,17 @@
 .workChild {
-    position: absolute;
-    top: -28px;
-    left: -16px;
-    background-color: #5e3bee;
-    width: 1484px;
-    height: 2648px;
-    opacity: 0.3;
+  background-color: var(--color-blueviolet);
+  width: auto;
+  height: 2648px;
+  opacity: 0.3;
   }
   .workItem {
     position: absolute;
-    top: 359px;
-    left: 720px;
-    width: 1493.5px;
-    height: 1503.27px;
-    object-fit: contain;
+    top: 30px;
+    right: -450px;
+    height: 2503.27px;
+    object-fit:fill;
     opacity: 0.84;
-  }
-  .home,
-  .vasilikiMinou {
-    position: absolute;
-    top: 38px;
-    left: 60px;
-  }
-  .home {
-    left: 1082px;
-  }
-  .aboutMe,
-  .automotiveChild,
-  .work1 {
-    position: absolute;
-    top: 38px;
-    left: 1187px;
-  }
-  .automotiveChild,
-  .work1 {
-    left: 1326px;
+    width: 100vw;
   }
   .automotiveChild {
     top: 47.86px;

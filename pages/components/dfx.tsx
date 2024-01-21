@@ -7,10 +7,6 @@ const DFX: NextPage = () => {
       <div className={styles.dfxChild} />
       <img className={styles.dfxItem} alt="" src="/vector-5.svg" />
       <img className={styles.logo1Icon} alt="" src="/logo-1@2x.png" />
-      <div className={styles.vasilikiMinou}>Vasiliki Minou</div>
-      <div className={styles.home}>Home</div>
-      <div className={styles.aboutMe}>About Me</div>
-      <div className={styles.work}>Work</div>
       <div className={styles.aboutDrMartens}>About Dr Martens</div>
       <div className={styles.skillsUserResearchContainer}>
         <p className={styles.skillsUserResearchCustome}>

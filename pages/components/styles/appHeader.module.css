@@ -1,0 +1,36 @@
+.appBar {
+    width: 100%;
+    position:fixed;
+    background-color: #fff;
+    height: 100px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-darkslateblue);
+    font-family: var(--font-italiana);
+    background-color: var(--color-linen);
+    z-index: 1000;
+}
+
+.vasilikiMinou {
+    left: 60px;
+}
+.aboutMe1,
+.home,
+.vasilikiMinou,
+.work {
+    position: absolute;
+    top: 38px;
+}
+.home {
+    right: 340px;
+    cursor: pointer;
+}
+.aboutMe1,
+.work {
+    right: 200px;
+}
+.work {
+    right: 100px;
+    cursor: pointer;
+}

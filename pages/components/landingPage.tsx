@@ -31,14 +31,6 @@ const LandingPage: NextPage = () => {
     <div className={styles.landingPage}>
       <div className={styles.landingPageChild} />
       <img className={styles.vector17} alt="" src="/vector-1-7@2x.png" />
-      <div className={styles.vasilikiMinou}>Vasiliki Minou</div>
-      <div className={styles.home}>Home</div>
-      <div className={styles.aboutMe} onClick={onAboutMeTextClick}>
-        About Me
-      </div>
-      <div className={styles.work} onClick={onWorkTextClick}>
-        Work
-      </div>
       <div className={styles.heyImVasilikiContainer}>
         <p className={styles.heyImVasiliki}>
           <span>

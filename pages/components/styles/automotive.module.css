@@ -1,154 +1,123 @@
-.automotiveChild {
-    position: absolute;
-    top: 0;
-    left: 0;
-    background-color: var(--color-linen);
-    width: 1440px;
-    height: 122px;
-    opacity: 0.84;
-  }
-  .aboutMe,
-  .home,
-  .vasilikiMinou,
-  .work {
-    position: absolute;
-    top: 38px;
-    left: 60px;
-    font-family: var(--font-italiana);
-  }
-  .aboutMe,
-  .home,
-  .work {
-    left: 1082px;
-  }
-  .aboutMe,
-  .work {
-    left: 1187px;
-  }
-  .work {
-    left: 1326px;
-  }
-  .aerodynamicsDesign,
-  .ergonomicsDesign {
-    position: absolute;
-    top: 558px;
-    left: 60px;
-    font-size: var(--font-size-5xl);
-    color: var(--color-blueviolet);
-  }
-  .ergonomicsDesign {
-    top: 1599px;
-  }
-  .asAMechanical,
-  .utilisingSolidworksI {
-    position: absolute;
-    top: 289px;
-    left: 60px;
-    font-size: var(--font-size-mini);
-    display: inline-block;
-    width: 770px;
-  }
-  .utilisingSolidworksI {
-    top: 820px;
-    left: 753px;
-    width: 620px;
-  }
-  .asPartOf {
-    margin: 0;
-  }
-  .asPartOfContainer {
-    position: absolute;
-    top: 1918px;
-    left: 753px;
-    font-size: var(--font-size-mini);
-    display: inline-block;
-    width: 620px;
-  }
-  .automotiveInner,
-  .automotiveItem {
-    position: absolute;
-    top: 1065px;
-    left: 0;
-    background-color: var(--color-linen);
-    width: 1440px;
-    height: 370px;
-    opacity: 0.3;
-  }
-  .automotiveInner {
-    top: 2319px;
-    height: 350px;
-  }
-  .arrowIcon,
-  .fw1Icon {
-    position: absolute;
-    top: 3579.59px;
-    left: 820px;
-    width: 193.5px;
-    height: 148.83px;
-    object-fit: contain;
-  }
-  .fw1Icon {
-    top: 763px;
-    left: 171px;
-    width: 481px;
-    height: 232px;
-    object-fit: cover;
-  }
-  .car1Icon,
-  .grayscaleFilter {
-    position: absolute;
-    top: 279px;
-    left: 998px;
-    width: 371px;
-    height: 209px;
-  }
-  .car1Icon {
-    border-radius: 19px;
-    object-fit: cover;
-  }
-  .grayscaleFilter {
-    background-color: #000;
-  }
-  .aeroAssembly1 {
-    position: absolute;
-    top: 995px;
-    left: 575px;
-    width: 684px;
-    height: 483px;
-    object-fit: cover;
-  }
-  .dashboard1Icon,
-  .seat1Icon,
-  .steeringWheel1 {
-    position: absolute;
-    top: 1782px;
-    left: 127px;
-    width: 577px;
-    height: 374px;
-    object-fit: cover;
-  }
-  .dashboard1Icon,
-  .steeringWheel1 {
-    top: 2319px;
-    left: 40px;
-    width: 784px;
-    height: 396px;
-  }
-  .steeringWheel1 {
-    top: 2371px;
-    left: 638px;
-    width: 578px;
-    height: 292px;
-  }
-  .automotive {
-    width: 100%;
-    position: relative;
-    background-color: #fff;
-    height: 3149px;
-    overflow: hidden;
-    text-align: left;
-    font-size: var(--font-size-xl);
-    color: var(--color-darkslateblue);
-    font-family: var(--font-khmer);
-  }
-  
+.aerodynamicsDesign,
+.ergonomicsDesign {
+  position: absolute;
+  top: 558px;
+  left: 60px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-blueviolet);
+}
+.ergonomicsDesign {
+  top: 1599px;
+}
+.asAMechanical,
+.utilisingSolidworksI {
+  position: absolute;
+  top: 289px;
+  left: 60px;
+  font-size: var(--font-size-mini);
+  display: inline-block;
+  width: 770px;
+}
+.utilisingSolidworksI {
+  top: 820px;
+  left: 753px;
+  width: 620px;
+}
+.asPartOf {
+  margin: 0;
+}
+.asPartOfContainer {
+  position: absolute;
+  top: 1918px;
+  left: 753px;
+  font-size: var(--font-size-mini);
+  display: inline-block;
+  width: 620px;
+}
+.automotiveInner,
+.automotiveItem {
+  position: absolute;
+  top: 1065px;
+  left: 0;
+  background-color: var(--color-linen);
+  width: 100vw;
+  height: 370px;
+  opacity: 0.3;
+}
+.automotiveInner {
+  top: 2319px;
+  height: 350px;
+}
+.arrowIcon,
+.fw1Icon {
+  position: absolute;
+  top: 3579.59px;
+  left: 820px;
+  width: 193.5px;
+  height: 148.83px;
+  object-fit: contain;
+}
+.fw1Icon {
+  top: 763px;
+  left: 171px;
+  width: 481px;
+  height: 232px;
+  object-fit: cover;
+}
+.car1Icon,
+.grayscaleFilter {
+  position: absolute;
+  top: 279px;
+  left: 998px;
+  width: 371px;
+  height: 209px;
+}
+.car1Icon {
+  border-radius: 19px;
+  object-fit: cover;
+}
+.grayscaleFilter {
+  background-color: #000;
+}
+.aeroAssembly1 {
+  position: absolute;
+  top: 995px;
+  left: 575px;
+  width: 684px;
+  height: 483px;
+  object-fit: cover;
+}
+.dashboard1Icon,
+.seat1Icon,
+.steeringWheel1 {
+  position: absolute;
+  top: 1782px;
+  left: 127px;
+  width: 577px;
+  height: 374px;
+  object-fit: cover;
+}
+.dashboard1Icon,
+.steeringWheel1 {
+  top: 2319px;
+  left: 40px;
+  width: 784px;
+  height: 396px;
+}
+.steeringWheel1 {
+  top: 2371px;
+  left: 638px;
+  width: 578px;
+  height: 292px;
+}
+.automotive {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  height: 3149px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslateblue);
+  font-family: var(--font-khmer);
+}

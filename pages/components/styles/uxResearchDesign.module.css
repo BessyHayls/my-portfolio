@@ -1,32 +1,12 @@
-.vasilikiMinou {
-    position: absolute;
-    top: 38px;
-    left: 60px;
-  }
+
   .uxResearchDesignChild {
     position: absolute;
     top: -214px;
-    left: 318px;
-    width: 1403.77px;
+    left: 518px;
+    width: 100vw;
     height: 1197.47px;
-    object-fit: contain;
+    object-fit:contain;
     opacity: 0.84;
-  }
-  .home {
-    position: absolute;
-    top: 38px;
-    left: 1082px;
-  }
-  .aboutMe,
-  .euphoriaChild,
-  .work {
-    position: absolute;
-    top: 38px;
-    left: 1187px;
-  }
-  .euphoriaChild,
-  .work {
-    left: 1326px;
   }
   .euphoriaChild {
     top: 2.86px;

@@ -5,10 +5,6 @@ const Automotive: NextPage = () => {
   return (
     <div className={styles.automotive}>
       <div className={styles.automotiveChild} />
-      <div className={styles.vasilikiMinou}>Vasiliki Minou</div>
-      <div className={styles.home}>Home</div>
-      <div className={styles.aboutMe}>About Me</div>
-      <div className={styles.work}>Work</div>
       <div className={styles.aerodynamicsDesign}>Aerodynamics Design</div>
       <div className={styles.ergonomicsDesign}>Ergonomics Design</div>
       <div className={styles.asAMechanical}>

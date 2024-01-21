@@ -11,10 +11,6 @@ const Uphoria: NextPage = () => {
         src="/activity-library-1@2x.png"
       />
       <img className={styles.uphoriaItem} alt="" src="/vector-4.svg" />
-      <div className={styles.vasilikiMinou}>Vasiliki Minou</div>
-      <div className={styles.home}>Home</div>
-      <div className={styles.aboutMe}>About Me</div>
-      <div className={styles.work}>Work</div>
       <div className={styles.aboutSysdoc}>About Sysdoc</div>
       <div className={styles.skillsUserResearchContainer}>
         <p className={styles.skillsUserResearchCustome}>

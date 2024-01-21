@@ -3,7 +3,7 @@
     top: 0;
     left: 0;
     background-color: var(--color-linen-100);
-    width: 1440px;
+    width: auto;
     height: 122px;
     opacity: 0.84;
   }
@@ -18,32 +18,10 @@
   }
   .uphoriaItem {
     top: 2701px;
-    left: 468px;
-    width: 2075.3px;
+    width: 100vw;
     height: 2148.88px;
-    object-fit: contain;
+    object-fit:fill;
     opacity: 0.84;
-  }
-  .aboutMe,
-  .home,
-  .vasilikiMinou,
-  .work {
-    position: absolute;
-    top: 38px;
-    left: 60px;
-    font-family: var(--font-italiana);
-  }
-  .aboutMe,
-  .home,
-  .work {
-    left: 1082px;
-  }
-  .aboutMe,
-  .work {
-    left: 1187px;
-  }
-  .work {
-    left: 1326px;
   }
   .aboutSysdoc {
     position: absolute;
@@ -60,7 +38,7 @@
   .skillsUserResearchContainer {
     position: absolute;
     top: 197px;
-    left: 953px;
+    right: 100px;
     font-size: var(--font-size-mini);
     white-space: pre-wrap;
     display: inline-block;
@@ -98,7 +76,7 @@
   .thisProjectAimsContainer {
     top: 703px;
     font-size: var(--font-size-mini);
-    width: 1091px;
+    width: 80vw;
   }
   .conceptOverview,
   .theFindingsFromContainer,
@@ -110,12 +88,12 @@
   .conceptOverview {
     top: 960px;
     color: var(--color-blueviolet);
-    width: 376px;
+    width: 80vw;
   }
   .theFindingsFromContainer {
     top: 1007px;
     font-size: var(--font-size-mini);
-    width: 1091px;
+    width: 80vw;
   }
   .personalisationDifferentPer {
     margin-bottom: 0;
@@ -132,7 +110,7 @@
     left: 60px;
     font-size: var(--font-size-mini);
     display: inline-block;
-    width: 652px;
+    width: 80vw;
   }
   .uphoriaInner {
     position: absolute;
@@ -661,12 +639,12 @@
     left: 60px;
     font-size: var(--font-size-mini);
     display: inline-block;
-    width: 1091px;
+    width: 80vw;
   }
   .eachUserOnContainer {
     top: 3479px;
     left: 62px;
-    width: 721px;
+    width: 80vw;
   }
   .userJourneyMap {
     position: absolute;
@@ -680,7 +658,7 @@
     left: 60px;
     font-size: var(--font-size-mini);
     display: inline-block;
-    width: 652px;
+    width: 80vw;
   }
   .icon,
   .icon1,

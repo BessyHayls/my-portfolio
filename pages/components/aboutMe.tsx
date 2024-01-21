@@ -1,27 +1,12 @@
 import type { NextPage } from "next";
-import { useCallback } from "react";
+
 import styles from "./styles/aboutMe.module.css";
 
 const AboutMe: NextPage = () => {
-  const onHomeTextClick = useCallback(() => {
-    // Please sync "Landing Page" to the project
-  }, []);
-
-  const onWorkTextClick = useCallback(() => {
-    // Please sync "Work" to the project
-  }, []);
 
   return (
     <div className={styles.aboutMe}>
       <img className={styles.aboutMeChild} alt="" src="/vector-1.svg" />
-      <div className={styles.vasilikiMinou}>Vasiliki Minou</div>
-      <div className={styles.home} onClick={onHomeTextClick}>
-        Home
-      </div>
-      <div className={styles.aboutMe1}>About Me</div>
-      <div className={styles.work} onClick={onWorkTextClick}>
-        Work
-      </div>
       <div className={styles.heyThereImContainer}>
         <p className={styles.heyThereIm}>
           Hey there! I'm Bessy, a BSc Physicist turned UX Designer with an MSc

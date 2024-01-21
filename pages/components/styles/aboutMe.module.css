@@ -6,81 +6,59 @@
     height: 2060.14px;
     object-fit: contain;
     opacity: 0.84;
-  }
-  .vasilikiMinou {
-    left: 60px;
-  }
-  .aboutMe1,
-  .home,
-  .vasilikiMinou,
-  .work {
-    position: absolute;
-    top: 38px;
-  }
-  .home {
-    left: 1082px;
-    cursor: pointer;
-  }
-  .aboutMe1,
-  .work {
-    left: 1187px;
-  }
-  .work {
-    left: 1326px;
-    cursor: pointer;
-  }
-  .heyThereIm {
-    margin: 0;
-  }
-  .blankLine3 {
-    margin: 0;
-    font-size: 16px;
-    color: #000;
-  }
-  .heyThereImContainer {
-    position: absolute;
-    top: 198px;
-    left: 370px;
-    font-family: var(--font-khmer);
-    display: inline-block;
-    width: 686px;
-    height: 514px;
-  }
-  .aboutMeItem {
-    position: absolute;
-    top: 814px;
-    left: 370px;
-    border-radius: var(--br-4xs);
-    background-color: #e4538c;
-    width: 192px;
-    height: 51px;
-    opacity: 0.9;
-  }
-  .myResume {
-    position: absolute;
-    top: 823px;
-    left: 411px;
     font-family: var(--font-khmer);
   }
-  .prof31Icon {
-    position: absolute;
-    top: 198px;
-    left: 60px;
-    border-radius: var(--br-4xs);
-    width: 116px;
-    height: 155px;
-    object-fit: cover;
-  }
-  .aboutMe {
-    width: 100%;
-    position: relative;
-    background-color: #fff;
-    height: 1024px;
-    overflow: hidden;
-    text-align: left;
-    font-size: var(--font-size-xl);
-    color: var(--color-darkslateblue);
-    font-family: var(--font-italiana);
-  }
+.heyThereIm {
+  margin: 0;
+}
+.blankLine3 {
+  margin: 0;
+  font-size: 16px;
+  color: #000;
+}
+.heyThereImContainer {
+  position: absolute;
+  top: 198px;
+  left: 370px;
+  font-family: var(--font-khmer);
+  display: inline-block;
+  width: 686px;
+  height: 514px;
+}
+.aboutMeItem {
+  position: absolute;
+  top: 814px;
+  left: 370px;
+  border-radius: var(--br-4xs);
+  background-color: #e4538c;
+  width: 192px;
+  height: 51px;
+  opacity: 0.9;
+}
+.myResume {
+  position: absolute;
+  top: 823px;
+  left: 411px;
+  font-family: var(--font-khmer);
+}
+.prof31Icon {
+  position: absolute;
+  top: 198px;
+  left: 60px;
+  border-radius: var(--br-4xs);
+  width: 116px;
+  height: 155px;
+  object-fit: cover;
+}
+.aboutMe {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslateblue);
+  font-family: var(--font-italiana);
+}
 
-  

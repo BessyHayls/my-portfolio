@@ -1,41 +1,15 @@
 .landingPageChild {
-    position: absolute;
-    top: -28px;
-    left: -16px;
     background-color: var(--color-blueviolet);
-    width: 1484px;
-    height: 1610px;
+    width: auto;
+    height: 1500px;
     opacity: 0.3;
   }
   .vector17 {
     position: absolute;
-    top: 80px;
-    left: 0;
-    width: 1440px;
-    height: 711px;
+    top: 102px;
+    width: 100vw;
+    height: 1000px;
     object-fit: cover;
-  }
-  .aboutMe,
-  .home,
-  .vasilikiMinou,
-  .work {
-    position: absolute;
-    top: 38px;
-    left: 60px;
-    font-family: var(--font-italiana);
-  }
-  .aboutMe,
-  .home,
-  .work {
-    left: 1082px;
-  }
-  .aboutMe,
-  .work {
-    left: 1187px;
-    cursor: pointer;
-  }
-  .work {
-    left: 1326px;
   }
   .heyImVasiliki {
     margin: 0;

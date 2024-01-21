@@ -13,15 +13,11 @@ const UXResearchDesign: NextPage = () => {
 
   return (
     <div className={styles.uxResearchDesign}>
-      <div className={styles.vasilikiMinou}>Vasiliki Minou</div>
       <img
         className={styles.uxResearchDesignChild}
         alt=""
         src="/vector-3.svg"
       />
-      <div className={styles.home}>Home</div>
-      <div className={styles.aboutMe}>About Me</div>
-      <div className={styles.work}>Work</div>
       <div className={styles.uxResearchDesignBox}>
         <div className={styles.euphoria}>
           <div className={styles.euphoriaChild} />
