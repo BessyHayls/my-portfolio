@@ -1,0 +1,182 @@
+.creativeChild {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-linen);
+    width: 1440px;
+    height: 122px;
+    opacity: 0.84;
+  }
+  .creativeInner,
+  .creativeItem {
+    position: absolute;
+    top: 2751px;
+    left: 820px;
+    width: 1358.55px;
+    height: 1563.21px;
+    object-fit: contain;
+    opacity: 0.84;
+  }
+  .creativeInner {
+    top: 68px;
+    left: -568px;
+    width: 1097.15px;
+    height: 1181.09px;
+  }
+  .aboutMe,
+  .home,
+  .vasilikiMinou,
+  .work {
+    position: absolute;
+    top: 38px;
+    left: 60px;
+  }
+  .aboutMe,
+  .home,
+  .work {
+    left: 1082px;
+  }
+  .aboutMe,
+  .work {
+    left: 1187px;
+  }
+  .work {
+    left: 1326px;
+  }
+  .exploreASpecial,
+  .illustrations {
+    position: absolute;
+    left: 60px;
+    font-family: var(--font-khmer);
+  }
+  .illustrations {
+    top: 286px;
+    font-size: 24px;
+    color: #5e3bee;
+  }
+  .exploreASpecial {
+    top: 386px;
+    font-size: 15px;
+    display: inline-block;
+    width: 771px;
+  }
+  .creativeChild1,
+  .creativeChild2,
+  .rectangleDiv {
+    position: absolute;
+    top: 1334px;
+    left: 60px;
+    background-color: var(--color-linen);
+    width: 727px;
+    height: 699px;
+    opacity: 0.3;
+  }
+  .creativeChild1,
+  .creativeChild2 {
+    top: 2251px;
+    left: 589px;
+    width: 656px;
+    height: 562px;
+  }
+  .creativeChild2 {
+    top: 3134px;
+    left: 212px;
+    width: 424px;
+    height: 533px;
+  }
+  .niouniou21Icon {
+    position: absolute;
+    top: 1349px;
+    left: 77px;
+    border-radius: var(--br-lgi);
+    width: 694px;
+    height: 670px;
+    object-fit: cover;
+  }
+  .creativeChild3 {
+    position: absolute;
+    top: 2486px;
+    left: 0;
+    background-color: var(--color-linen);
+    width: 1440px;
+    height: 430px;
+    display: none;
+    opacity: 0.3;
+  }
+  .arrowIcon {
+    position: absolute;
+    top: 3579.59px;
+    left: 820px;
+    width: 193.5px;
+    height: 148.83px;
+    object-fit: contain;
+  }
+  .creativeChild4 {
+    position: absolute;
+    top: 551px;
+    left: 727px;
+    background-color: rgba(249, 215, 215, 0.84);
+    width: 475px;
+    height: 601px;
+  }
+  .mee1Icon,
+  .savvaki33Icon,
+  .theodosakimou1Icon {
+    position: absolute;
+    top: 564px;
+    left: 742px;
+    border-radius: var(--br-lgi);
+    width: 446px;
+    height: 576px;
+    object-fit: cover;
+  }
+  .mee1Icon,
+  .theodosakimou1Icon {
+    top: 2262px;
+    left: 599px;
+    width: 636px;
+    height: 539px;
+  }
+  .mee1Icon {
+    top: 3142px;
+    left: 222px;
+    width: 404px;
+    height: 517px;
+  }
+  .anna,
+  .bessy,
+  .nikol,
+  .sia {
+    position: absolute;
+    top: 1152px;
+    left: 1140px;
+    letter-spacing: 0.2em;
+    color: var(--color-darkslateblue-100);
+  }
+  .anna,
+  .bessy,
+  .sia {
+    top: 2033px;
+    left: 77px;
+  }
+  .bessy,
+  .sia {
+    top: 2813px;
+    left: 1199px;
+  }
+  .bessy {
+    top: 3667px;
+    left: 222px;
+  }
+  .creative {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 4129px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-darkslateblue-200);
+    font-family: var(--font-italiana);
+  }
+  

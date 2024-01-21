@@ -1,5 +1,6 @@
 import type { NextPage } from "next";
 import { useCallback } from "react";
+import styles from "./styles/aboutMe.module.css";
 
 const AboutMe: NextPage = () => {
   const onHomeTextClick = useCallback(() => {
@@ -11,89 +12,48 @@ const AboutMe: NextPage = () => {
   }, []);
 
   return (
-    <div className="relative bg-white w-full h-[1024px] overflow-hidden text-left text-xl text-darkslateblue font-italiana">
-      <img
-        className="absolute top-[-48px] left-[195px] w-[1906.2px] h-[2060.14px] object-contain opacity-[0.84]"
-        alt=""
-        src="/vector-1.svg"
-      />
-      <div className="absolute top-[38px] left-[60px]">Vasiliki Minou</div>
-      <div
-        className="absolute top-[38px] left-[1082px] cursor-pointer"
-        onClick={onHomeTextClick}
-      >
+    <div className={styles.aboutMe}>
+      <img className={styles.aboutMeChild} alt="" src="/vector-1.svg" />
+      <div className={styles.vasilikiMinou}>Vasiliki Minou</div>
+      <div className={styles.home} onClick={onHomeTextClick}>
         Home
       </div>
-      <div className="absolute top-[38px] left-[1187px]">About Me</div>
-      <div
-        className="absolute top-[38px] left-[1326px] cursor-pointer"
-        onClick={onWorkTextClick}
-      >
+      <div className={styles.aboutMe1}>About Me</div>
+      <div className={styles.work} onClick={onWorkTextClick}>
         Work
       </div>
-      <div className="absolute top-[198px] left-[370px] font-khmer whitespace-pre-wrap inline-block w-[548px] h-[514px] text-base">
-        <p className="m-0">
-          <span>
-            <span>
-              I have spent a fairly large amount of time procrastinating.
-            </span>
-          </span>
+      <div className={styles.heyThereImContainer}>
+        <p className={styles.heyThereIm}>
+          Hey there! I'm Bessy, a BSc Physicist turned UX Designer with an MSc
+          in Design Innovation. From unraveling the secrets of the universe to
+          weaving them into creative designs, my journey has been quite the
+          ride.
         </p>
-        <p className="m-0">
-          <span>
-            <span>&nbsp;</span>
-          </span>
+        <p className={styles.heyThereIm}>&nbsp;</p>
+        <p className={styles.heyThereIm}>
+          After my physics escapades, I took a leap into the world of design and
+          arts. Now, armed with a mix of analytical thinking and creative flair,
+          I love exploring the intersection of technology and arts in my own
+          time.
         </p>
-        <p className="m-0 text-xl">
-          <span>
-            <span>
-              This is where I mention all the marvellous things I have achieved
-              so far,
-            </span>
-          </span>
+        <p className={styles.heyThereIm}>&nbsp;</p>
+        <p className={styles.heyThereIm}>
+          Professionally, I've worn the hat of a Software Engineer at JP Morgan
+          Chase, where I've delved into the realms of PaaS, SaaS, and Agile
+          Delivery. Navigating the coding landscape has been exciting, and I
+          find joy in bringing innovative solutions to the financial realm.
         </p>
-        <p className="m-0">
-          <span>
-            <span>
-              the struggles, the pain, and of course corporate life that taught
-              me so much [eek].
-            </span>
-          </span>
+        <p className={styles.heyThereIm}>&nbsp;</p>
+        <p className={styles.heyThereIm}>
+          Off the clock, you'll find me with a soft spot for dogs and a love for
+          anything sourdough. It's not just about the tech – I believe in adding
+          a touch of humor and a sprinkle of creativity to everything I do.
         </p>
-        <p className="m-0">
-          <span>
-            <span>&nbsp;</span>
-          </span>
-        </p>
-        <p className="m-0">
-          <span>
-            <span>
-              More stuff here, more, more, and more. Just need to see what it
-              looks like so that I can adjust the position of the resume button.
-            </span>
-          </span>
-        </p>
-        <p className="m-0">
-          <span>
-            <span>&nbsp;</span>
-          </span>
-        </p>
-        <p className="m-0">
-          <span>
-            <span>{`I should probably need to make it slightly bigger - definitely find a way to implement the dash, it looks fuckin awesome. `}</span>
-          </span>
-        </p>
-        <p className="m-0 text-black">&nbsp;</p>
+        <p className={styles.blankLine3}>&nbsp;</p>
       </div>
-      <div className="absolute top-[814px] left-[370px] rounded-4xs bg-hotpink w-48 h-[51px] opacity-[0.9]" />
-      <div className="absolute top-[823px] left-[411px] font-khmer">
-        My Resume
-      </div>
-      <img
-        className="absolute top-[198px] left-[60px] rounded-4xs w-[116px] h-[155px] object-cover"
-        alt=""
-        src="/prof3-1@2x.png"
-      />
+      <div className={styles.aboutMeItem} />
+      <div className={styles.myResume}>My Resume</div>
+      <img className={styles.prof31Icon} alt="" src="/prof3-1@2x.png" />
     </div>
   );
 };

@@ -1,13 +1,29 @@
 @import url("https://fonts.googleapis.com/css2?family=Italiana:wght@400&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Khmer:wght@400&display=swap");
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
 body {
-  @apply leading-[normal] m-0;
+  margin: 0;
+  line-height: normal;
 }
-*,
-::before,
-::after {
-  border-width: 0;
+:root {
+  /* fonts */
+  --font-khmer: Khmer;
+  --font-italiana: Italiana;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-17xl: 36px;
+  --font-size-mini: 15px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-darkslateblue: #1c1e53;
+  --color-hotpink: #e4538c;
+  --color-blueviolet: #5e3bee;
+  --color-darkslateblue-100: #3a3d86;
+  --color-darkslateblue-200: #1c1e53;
+  --color-blueviolet: #5e3bee;
+  --color-linen: #f9efe9;
+
+  /* Border radiuses */
+  --br-lgi: 19px;
 }

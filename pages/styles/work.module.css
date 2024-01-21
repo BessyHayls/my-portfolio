@@ -1,0 +1,198 @@
+.workChild {
+    position: absolute;
+    top: -28px;
+    left: -16px;
+    background-color: #5e3bee;
+    width: 1484px;
+    height: 2648px;
+    opacity: 0.3;
+  }
+  .workItem {
+    position: absolute;
+    top: 359px;
+    left: 720px;
+    width: 1493.5px;
+    height: 1503.27px;
+    object-fit: contain;
+    opacity: 0.84;
+  }
+  .home,
+  .vasilikiMinou {
+    position: absolute;
+    top: 38px;
+    left: 60px;
+  }
+  .home {
+    left: 1082px;
+  }
+  .aboutMe,
+  .automotiveChild,
+  .work1 {
+    position: absolute;
+    top: 38px;
+    left: 1187px;
+  }
+  .automotiveChild,
+  .work1 {
+    left: 1326px;
+  }
+  .automotiveChild {
+    top: 47.86px;
+    left: -151px;
+    border-radius: var(--br-52xl);
+    background-color: #3a3d86;
+    width: 178.7px;
+    height: 290.57px;
+    transform: rotate(-32.06deg);
+    transform-origin: 0 0;
+  }
+  .automotive21Icon {
+    position: absolute;
+    top: 25px;
+    left: -15px;
+    width: 279px;
+    height: 197px;
+    object-fit: cover;
+  }
+  .automotive,
+  .automotiveDesignBoxChild {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-sm);
+    width: 374px;
+    height: 199px;
+  }
+  .automotive {
+    background-color: var(--color-linen);
+    overflow: hidden;
+  }
+  .automotiveDesignBoxChild {
+    background-color: var(--color-aliceblue);
+    opacity: 0.25;
+  }
+  .automotiveDesignBox,
+  .creativeChild {
+    position: absolute;
+    top: 1471px;
+    left: 59px;
+    width: 374px;
+    height: 199px;
+  }
+  .creativeChild {
+    top: -144px;
+    left: 171px;
+    border-radius: var(--br-52xl);
+    width: 339.95px;
+    height: 316.17px;
+    object-fit: contain;
+  }
+  .savvaki31Icon {
+    position: absolute;
+    top: 0;
+    left: -3px;
+    width: 148px;
+    height: 191px;
+    object-fit: cover;
+  }
+  .creativeDesignBox,
+  .euphoriaChild {
+    position: absolute;
+    top: 892px;
+    left: 75px;
+    width: 374px;
+    height: 199px;
+  }
+  .euphoriaChild {
+    top: 2.86px;
+    left: 169.39px;
+    border-radius: var(--br-52xl);
+    background-color: #6279ff;
+    width: 178.7px;
+    height: 290.57px;
+    transform: rotate(-32.06deg);
+    transform-origin: 0 0;
+  }
+  .icon,
+  .icon1 {
+    position: absolute;
+    top: 23px;
+    left: 214px;
+    width: 66px;
+    height: 130px;
+    object-fit: cover;
+  }
+  .icon1 {
+    top: 46px;
+    left: 285px;
+    width: 67px;
+    height: 131px;
+  }
+  .groupChild,
+  .uxResearchDesignBox {
+    position: absolute;
+    top: 313px;
+    left: 75px;
+    width: 374px;
+    height: 199px;
+  }
+  .groupChild {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-4xs);
+    background-color: var(--color-linen);
+    width: 224px;
+    height: 34.33px;
+  }
+  .uxResearch {
+    position: absolute;
+    top: 5px;
+    left: 15px;
+    display: inline-block;
+    width: 194px;
+    height: 17.1px;
+  }
+  .rectangleParent {
+    position: absolute;
+    top: 392px;
+    left: 527px;
+    width: 224px;
+    height: 34.33px;
+    cursor: pointer;
+  }
+  .automotiveDesign,
+  .rectangleGroup {
+    position: absolute;
+    top: 5px;
+    left: 33px;
+  }
+  .rectangleGroup {
+    top: 1570px;
+    left: 527px;
+    width: 224px;
+    height: 34.33px;
+  }
+  .creativeDesign {
+    position: absolute;
+    top: 5px;
+    left: 52px;
+  }
+  .rectangleContainer {
+    position: absolute;
+    top: 981px;
+    left: 527px;
+    width: 224px;
+    height: 34.33px;
+  }
+  .work {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 2100px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-darkslateblue-100);
+    font-family: var(--font-italiana);
+  }
+  

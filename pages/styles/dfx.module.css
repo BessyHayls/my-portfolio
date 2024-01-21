@@ -1,0 +1,254 @@
+.dfxChild,
+.dfxItem {
+  position: absolute;
+  opacity: 0.84;
+}
+.dfxChild {
+  top: 0;
+  left: 0;
+  background-color: var(--color-linen);
+  width: 1440px;
+  height: 122px;
+}
+.dfxItem {
+  top: 3460px;
+  left: -521px;
+  width: 1435.05px;
+  height: 1234.62px;
+  object-fit: contain;
+}
+.logo1Icon {
+  position: absolute;
+  top: 192px;
+  left: 44px;
+  width: 275px;
+  height: 109px;
+  object-fit: cover;
+}
+.vasilikiMinou {
+  position: absolute;
+  left: 60px;
+  font-size: var(--font-size-xl);
+}
+.aboutMe,
+.home,
+.vasilikiMinou {
+  top: 38px;
+  font-family: var(--font-italiana);
+}
+.home {
+  position: absolute;
+  left: 1082px;
+  font-size: var(--font-size-xl);
+}
+.aboutMe {
+  left: 1187px;
+}
+.aboutDrMartens,
+.aboutMe,
+.work {
+  position: absolute;
+  font-size: var(--font-size-xl);
+}
+.work {
+  top: 38px;
+  left: 1326px;
+  font-family: var(--font-italiana);
+}
+.aboutDrMartens {
+  top: 430px;
+  left: 60px;
+  color: var(--color-blueviolet);
+}
+.skills {
+  color: var(--color-darkslateblue-100);
+}
+.skillsUserResearchCustome {
+  margin: 0;
+}
+.skillsUserResearchContainer {
+  position: absolute;
+  top: 209px;
+  left: 953px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 395px;
+}
+.designForExperiences,
+.researchApproach {
+  position: absolute;
+  left: 60px;
+  color: var(--color-blueviolet);
+}
+.designForExperiences {
+  top: 286px;
+  font-size: 24px;
+}
+.researchApproach {
+  top: 707px;
+  font-size: var(--font-size-xl);
+}
+.drMartensAlso {
+  position: absolute;
+  top: 477px;
+  left: 60px;
+  display: inline-block;
+  width: 771px;
+}
+.theCompanysOriginalContainer {
+  top: 754px;
+  width: 1091px;
+}
+.personaCustomer,
+.theCompanysOriginalContainer,
+.whileTheCompany {
+  position: absolute;
+  left: 60px;
+  display: inline-block;
+}
+.personaCustomer {
+  top: 1062px;
+  font-size: var(--font-size-xl);
+  color: var(--color-blueviolet);
+  width: 376px;
+}
+.whileTheCompany {
+  top: 1109px;
+  width: 1091px;
+}
+.dfxChild1,
+.dfxInner,
+.rectangleDiv {
+  position: absolute;
+  top: 1262px;
+  left: 0;
+  background-color: var(--color-linen);
+  width: 1440px;
+  height: 430px;
+  opacity: 0.3;
+}
+.dfxChild1,
+.rectangleDiv {
+  top: 1987px;
+}
+.dfxChild1 {
+  top: 2486px;
+  display: none;
+}
+.alexHasAContainer,
+.oneDayAs {
+  position: absolute;
+  top: 1382px;
+  left: 804px;
+  display: inline-block;
+  width: 548px;
+}
+.oneDayAs {
+  top: 1788px;
+  left: 60px;
+  width: 1091px;
+}
+.customerJourneyMap3 {
+  position: absolute;
+  top: 2030px;
+  left: 652px;
+  border-radius: var(--br-lgi);
+  width: 700px;
+  height: 344px;
+  object-fit: cover;
+}
+.insertAnimation,
+.solutions {
+  position: absolute;
+  top: 2543px;
+  left: 60px;
+  font-size: var(--font-size-xl);
+  color: var(--color-blueviolet);
+}
+.insertAnimation {
+  top: 3530px;
+  left: 641px;
+}
+.whenAddressingTheContainer {
+  position: absolute;
+  top: 2591px;
+  left: 60px;
+  display: inline-block;
+  width: 1091px;
+}
+.arrowIcon,
+.persona1Icon {
+  position: absolute;
+  top: 3579.59px;
+  left: 820px;
+  width: 193.5px;
+  height: 148.83px;
+  object-fit: contain;
+}
+.persona1Icon {
+  top: 1283px;
+  left: 60px;
+  border-radius: var(--br-lgi);
+  width: 615px;
+  height: 388px;
+  object-fit: cover;
+}
+.mainPainPoints {
+  position: absolute;
+  top: 2137px;
+  left: 60px;
+  color: var(--color-darkslateblue-100);
+  display: inline-block;
+  width: 492px;
+}
+.uncertaintyAboutWhetherShoe {
+  margin-bottom: 0;
+}
+.differentNeedsForOnlineAnd {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 20px;
+  color: var(--color-darkslateblue-200);
+}
+.differentNeedsForContainer {
+  position: absolute;
+  top: 2150px;
+  left: 51px;
+  color: var(--color-darkslateblue-100);
+}
+.vfr11Icon,
+.vfr31Icon {
+  position: absolute;
+  top: 2936px;
+  left: 211px;
+  width: 454px;
+  height: 310px;
+  object-fit: cover;
+}
+.vfr11Icon {
+  left: 752px;
+  width: 360px;
+  height: 301px;
+}
+.onlineFittingRoom,
+.virtualFittingRoom {
+  position: absolute;
+  top: 3249px;
+  left: 367px;
+  color: var(--color-darkslateblue-100);
+}
+.virtualFittingRoom {
+  left: 861px;
+}
+.dfx {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  height: 4129px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-darkslateblue-200);
+  font-family: var(--font-khmer);
+}

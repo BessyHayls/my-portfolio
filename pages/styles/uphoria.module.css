@@ -1,0 +1,763 @@
+.uphoriaChild {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-linen-100);
+    width: 1440px;
+    height: 122px;
+    opacity: 0.84;
+  }
+  .activityLibrary1,
+  .uphoriaItem {
+    position: absolute;
+    top: 311px;
+    left: 606px;
+    width: 616px;
+    height: 397px;
+    object-fit: cover;
+  }
+  .uphoriaItem {
+    top: 2701px;
+    left: 468px;
+    width: 2075.3px;
+    height: 2148.88px;
+    object-fit: contain;
+    opacity: 0.84;
+  }
+  .aboutMe,
+  .home,
+  .vasilikiMinou,
+  .work {
+    position: absolute;
+    top: 38px;
+    left: 60px;
+    font-family: var(--font-italiana);
+  }
+  .aboutMe,
+  .home,
+  .work {
+    left: 1082px;
+  }
+  .aboutMe,
+  .work {
+    left: 1187px;
+  }
+  .work {
+    left: 1326px;
+  }
+  .aboutSysdoc {
+    position: absolute;
+    top: 430px;
+    left: 60px;
+    color: var(--color-blueviolet);
+  }
+  .skills {
+    color: var(--color-darkslateblue-100);
+  }
+  .skillsUserResearchCustome {
+    margin: 0;
+  }
+  .skillsUserResearchContainer {
+    position: absolute;
+    top: 197px;
+    left: 953px;
+    font-size: var(--font-size-mini);
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 395px;
+  }
+  .uphoriaLogo1 {
+    position: absolute;
+    top: 197px;
+    left: 18px;
+    width: 138px;
+    height: 79px;
+    object-fit: cover;
+  }
+  .researchApproach,
+  .uphoria1 {
+    position: absolute;
+    left: 60px;
+    color: var(--color-blueviolet);
+  }
+  .uphoria1 {
+    top: 286px;
+    font-size: 24px;
+  }
+  .researchApproach {
+    top: 656px;
+  }
+  .withAWide {
+    position: absolute;
+    top: 477px;
+    left: 60px;
+    font-size: var(--font-size-mini);
+    display: inline-block;
+    width: 771px;
+  }
+  .thisProjectAimsContainer {
+    top: 703px;
+    font-size: var(--font-size-mini);
+    width: 1091px;
+  }
+  .conceptOverview,
+  .theFindingsFromContainer,
+  .thisProjectAimsContainer {
+    position: absolute;
+    left: 60px;
+    display: inline-block;
+  }
+  .conceptOverview {
+    top: 960px;
+    color: var(--color-blueviolet);
+    width: 376px;
+  }
+  .theFindingsFromContainer {
+    top: 1007px;
+    font-size: var(--font-size-mini);
+    width: 1091px;
+  }
+  .personalisationDifferentPer {
+    margin-bottom: 0;
+  }
+  .motivationTraditionalFitnes {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: 20px;
+  }
+  .theKeyElementsContainer {
+    position: absolute;
+    top: 1694px;
+    left: 60px;
+    font-size: var(--font-size-mini);
+    display: inline-block;
+    width: 652px;
+  }
+  .uphoriaInner {
+    position: absolute;
+    top: 1211px;
+    left: 0;
+    background-color: var(--color-linen-100);
+    width: 1440px;
+    height: 430px;
+    opacity: 0.3;
+  }
+  .customerJourneyMap2 {
+    position: absolute;
+    top: 2236px;
+    left: 371px;
+    border-radius: 19px;
+    width: 697px;
+    height: 343px;
+    object-fit: cover;
+  }
+  .conceptOverviewChild {
+    position: absolute;
+    top: 0;
+    left: 342.05px;
+    border-radius: 50%;
+    background: radial-gradient(
+      50% 50%at 50% 50%,
+      rgba(224, 167, 57, 0.85),
+      rgba(249, 198, 100, 0.46) 60.42%,
+      rgba(255, 255, 255, 0.46)
+    );
+    width: 314.87px;
+    height: 314.87px;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+  }
+  .interactiveActivities,
+  .mentalHealthContainer,
+  .outsideOrIntranetContainer,
+  .personalitiesOfEmployeesContainer {
+    position: absolute;
+    top: 26.24px;
+    left: 142.44px;
+    font-size: var(--font-size-xs);
+    font-weight: 800;
+    display: inline-block;
+    width: 78.72px;
+    height: 37.48px;
+  }
+  .interactiveActivities,
+  .outsideOrIntranetContainer,
+  .personalitiesOfEmployeesContainer {
+    top: 133.07px;
+    left: 0;
+    width: 84.34px;
+  }
+  .interactiveActivities,
+  .personalitiesOfEmployeesContainer {
+    top: 139.63px;
+    left: 271.77px;
+    height: 25.3px;
+  }
+  .personalitiesOfEmployeesContainer {
+    top: 253.02px;
+    left: 139.63px;
+    height: 37.48px;
+  }
+  .conceptOverviewItem {
+    position: absolute;
+    top: 49.67px;
+    left: 238.82px;
+    width: 76.83px;
+    height: 79.66px;
+    object-fit: contain;
+  }
+  .conceptOverviewChild1,
+  .conceptOverviewInner,
+  .vectorIcon {
+    position: absolute;
+    top: 191.17px;
+    left: 237.09px;
+    width: 78.36px;
+    height: 76.25px;
+    object-fit: contain;
+  }
+  .conceptOverviewChild1,
+  .vectorIcon {
+    top: 192.11px;
+    left: 52.48px;
+    width: 77.32px;
+    height: 79.39px;
+  }
+  .conceptOverviewChild1 {
+    top: 50.05px;
+    left: 46.86px;
+    width: 83.06px;
+    height: 81.15px;
+  }
+  .conceptOverviewChild2,
+  .conceptOverviewChild3 {
+    position: absolute;
+    top: 68.96px;
+    left: 74.61px;
+    width: 67.54px;
+    height: 65.99px;
+    object-fit: contain;
+  }
+  .conceptOverviewChild3 {
+    top: 69.35px;
+    left: 235.33px;
+    width: 57.68px;
+    height: 59.98px;
+  }
+  .conceptOverviewChild4,
+  .conceptOverviewChild5 {
+    position: absolute;
+    top: 185.55px;
+    left: 74.86px;
+    width: 63.54px;
+    height: 65.2px;
+    object-fit: contain;
+  }
+  .conceptOverviewChild5 {
+    top: 186.49px;
+    left: 230.53px;
+    width: 62.13px;
+    height: 60.35px;
+  }
+  .improve,
+  .medium {
+    position: absolute;
+    top: 55.29px;
+    left: 284.46px;
+    font-weight: 600;
+    color: var(--color-deepskyblue);
+    display: inline-block;
+    width: 55.29px;
+    height: 12.18px;
+    transform: rotate(54.19deg);
+    transform-origin: 0 0;
+  }
+  .improve {
+    top: 117.03px;
+    left: 70.28px;
+    color: var(--color-chocolate);
+    transform: rotate(-57.73deg);
+  }
+  .form {
+    top: 251.5px;
+    left: 99.33px;
+    color: var(--color-goldenrod);
+    width: 56.38px;
+    height: 12.85px;
+    transform: rotate(-124.31deg);
+  }
+  .accesses,
+  .benefit,
+  .benefits,
+  .form,
+  .improve1,
+  .strengthen {
+    position: absolute;
+    font-weight: 600;
+    display: inline-block;
+    transform-origin: 0 0;
+  }
+  .benefit {
+    top: 242.35px;
+    left: 253.02px;
+    color: var(--color-goldenrod);
+    width: 56.38px;
+    height: 12.85px;
+    transform: rotate(-50.79deg);
+  }
+  .accesses,
+  .benefits,
+  .improve1,
+  .strengthen {
+    width: 55.29px;
+    height: 12.18px;
+  }
+  .improve1 {
+    top: 63.72px;
+    left: 267.65px;
+    color: var(--color-chocolate);
+    transform: rotate(54.65deg);
+  }
+  .accesses,
+  .benefits,
+  .strengthen {
+    top: 101.21px;
+    left: 48.15px;
+    transform: rotate(-54.83deg);
+  }
+  .accesses,
+  .benefits {
+    top: 257.03px;
+    left: 268.02px;
+    color: var(--color-deepskyblue);
+    transform: rotate(-51.65deg);
+  }
+  .benefits {
+    top: 212.73px;
+    left: 60.33px;
+    transform: rotate(52.97deg);
+  }
+  .image16Icon {
+    position: absolute;
+    top: 138.69px;
+    left: 163.06px;
+    border-radius: 11px;
+    width: 42.17px;
+    height: 43.11px;
+    object-fit: cover;
+  }
+  .conceptOverview1 {
+    position: absolute;
+    top: 1271px;
+    left: 167px;
+    width: 356.11px;
+    height: 314.87px;
+    text-align: center;
+    font-size: var(--font-size-3xs);
+    color: var(--color-steelblue-100);
+    font-family: var(--font-inter);
+  }
+  .valuePropositionChild,
+  .valuePropositionItem {
+    position: absolute;
+    top: 34px;
+    width: 250px;
+    height: 250px;
+  }
+  .valuePropositionChild {
+    left: 14px;
+    background-color: #e8f3ff;
+    border: 1.5px solid var(--color-steelblue-200);
+    box-sizing: border-box;
+  }
+  .valuePropositionItem {
+    left: 324px;
+    object-fit: contain;
+  }
+  .groupIcon,
+  .valuePropositionInner {
+    position: absolute;
+    top: 68px;
+    left: 297px;
+    width: 236px;
+    height: 190.97px;
+  }
+  .groupIcon {
+    top: 34px;
+    left: 14px;
+    width: 274px;
+    height: 249px;
+    object-fit: contain;
+  }
+  .customerProfile,
+  .valueProposition1 {
+    position: absolute;
+    top: 9px;
+    left: 76px;
+    font-size: var(--font-size-sm);
+    display: inline-block;
+    color: var(--color-steelblue-200);
+    width: 171px;
+    height: 20px;
+  }
+  .customerProfile {
+    left: 390px;
+    color: var(--color-peru);
+  }
+  .frameIcon,
+  .frameIcon1 {
+    position: absolute;
+    top: 128px;
+    left: 111px;
+    width: 45px;
+    height: 54px;
+    overflow: hidden;
+  }
+  .frameIcon1 {
+    top: 239.57px;
+    left: 89.57px;
+    width: 34.06px;
+    height: 34.06px;
+    object-fit: contain;
+  }
+  .frameIcon2,
+  .frameIcon3,
+  .frameIcon4 {
+    position: absolute;
+    top: 44px;
+    left: 91px;
+    width: 20.52px;
+    height: 17.91px;
+    overflow: hidden;
+  }
+  .frameIcon3,
+  .frameIcon4 {
+    top: 171px;
+    left: 20px;
+    width: 26.14px;
+    height: 10.56px;
+  }
+  .frameIcon4 {
+    top: 136px;
+    left: 420px;
+    width: 49.09px;
+    height: 45.25px;
+  }
+  .gainCreators {
+    position: absolute;
+    top: 39px;
+    left: 120px;
+    font-size: var(--font-size-xs);
+    font-weight: 500;
+    color: var(--color-steelblue-200);
+    display: inline-block;
+    width: 95px;
+    height: 14px;
+  }
+  .gains {
+    top: 140px;
+    left: 357px;
+    width: 43px;
+    height: 14px;
+  }
+  .customerJobs,
+  .gains,
+  .painRelivers,
+  .pains,
+  .productsServices {
+    position: absolute;
+    font-size: var(--font-size-xs);
+    font-weight: 500;
+    color: var(--color-peru);
+    display: inline-block;
+  }
+  .customerJobs {
+    top: 108px;
+    left: 505px;
+    line-height: 14px;
+    width: 95px;
+    height: 30px;
+  }
+  .painRelivers,
+  .pains,
+  .productsServices {
+    top: 163px;
+    left: 357px;
+    width: 47px;
+    height: 14px;
+  }
+  .painRelivers,
+  .productsServices {
+    top: 257px;
+    left: 130px;
+    color: var(--color-steelblue-200);
+    width: 95px;
+  }
+  .productsServices {
+    top: 138px;
+    left: 22px;
+    line-height: 13px;
+    height: 26px;
+  }
+  .frameIcon5,
+  .frameIcon6,
+  .frameIcon7 {
+    position: absolute;
+    top: 89px;
+    left: 525px;
+    width: 15.33px;
+    height: 18.62px;
+    overflow: hidden;
+  }
+  .frameIcon6,
+  .frameIcon7 {
+    top: 162px;
+    left: 333px;
+    width: 19.79px;
+    height: 19.79px;
+  }
+  .frameIcon7 {
+    top: 135px;
+    width: 19.82px;
+    height: 19.82px;
+  }
+  .ineffectiveCommunication,
+  .sedentariness {
+    position: absolute;
+    top: 241px;
+    left: 367px;
+    line-height: 9px;
+    font-weight: 500;
+    display: inline-block;
+    width: 82px;
+    height: 10px;
+  }
+  .ineffectiveCommunication {
+    top: 218px;
+    width: 88px;
+    height: 17px;
+  }
+  .lessMotivationAndSelfDesci {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: var(--padding-xs);
+  }
+  .lessMotivationAndContainer {
+    position: absolute;
+    top: 192px;
+    left: 366px;
+    line-height: 9px;
+    font-weight: 500;
+    display: inline-block;
+    width: 102px;
+    height: 17px;
+  }
+  .appPlatform,
+  .encourageFromCommunityContainer,
+  .interactiveSportsGameContainer,
+  .onlineCommunity,
+  .personalizedActivityRecommenContainer,
+  .playfulInteraction {
+    position: absolute;
+    top: 167px;
+    left: 156px;
+    line-height: 9px;
+    font-weight: 500;
+    color: var(--color-darkslateblue-200);
+    display: inline-block;
+    width: 102px;
+    height: 17px;
+  }
+  .appPlatform,
+  .interactiveSportsGameContainer,
+  .onlineCommunity,
+  .personalizedActivityRecommenContainer,
+  .playfulInteraction {
+    top: 190px;
+    left: 112px;
+  }
+  .appPlatform,
+  .interactiveSportsGameContainer,
+  .onlineCommunity,
+  .personalizedActivityRecommenContainer {
+    top: 126px;
+    left: 13px;
+  }
+  .interactiveSportsGameContainer,
+  .onlineCommunity,
+  .personalizedActivityRecommenContainer {
+    top: 57px;
+    left: 116px;
+  }
+  .interactiveSportsGameContainer,
+  .personalizedActivityRecommenContainer {
+    top: 189px;
+    left: 14px;
+    height: 26px;
+  }
+  .interactiveSportsGameContainer {
+    top: 94px;
+    left: 13px;
+    width: 63px;
+    height: 17px;
+  }
+  .physicalExercise,
+  .senseOfBelongingContainer,
+  .senseOfConnectionContainer {
+    position: absolute;
+    top: 49px;
+    left: 404px;
+    line-height: 9px;
+    font-weight: 500;
+    display: inline-block;
+    width: 115px;
+    height: 17px;
+  }
+  .physicalExercise,
+  .senseOfBelongingContainer {
+    top: 64px;
+  }
+  .physicalExercise {
+    top: 79px;
+  }
+  .valueProposition {
+    position: absolute;
+    top: 1271px;
+    left: 652px;
+    background-color: transparent;
+    width: 575px;
+    height: 301px;
+    overflow: hidden;
+    font-size: var(--font-size-4xs);
+    color: var(--color-sienna);
+    font-family: var(--font-inter);
+  }
+  .solutions {
+    position: absolute;
+    top: 2706px;
+    left: 60px;
+    color: var(--color-blueviolet);
+  }
+  .anOnlineCommunityContainer {
+    position: absolute;
+    top: 2753px;
+    left: 60px;
+    font-size: var(--font-size-mini);
+    display: inline-block;
+    width: 726px;
+  }
+  .recommendationsNext {
+    position: absolute;
+    top: 3741px;
+    left: 60px;
+    color: var(--color-blueviolet);
+  }
+  .eachUserOnContainer,
+  .theStudyAcknowledgesContainer {
+    position: absolute;
+    top: 3788px;
+    left: 60px;
+    font-size: var(--font-size-mini);
+    display: inline-block;
+    width: 1091px;
+  }
+  .eachUserOnContainer {
+    top: 3479px;
+    left: 62px;
+    width: 721px;
+  }
+  .userJourneyMap {
+    position: absolute;
+    top: 2029px;
+    left: 60px;
+    color: var(--color-blueviolet);
+  }
+  .analysingTheCustomer {
+    position: absolute;
+    top: 2076px;
+    left: 60px;
+    font-size: var(--font-size-mini);
+    display: inline-block;
+    width: 652px;
+  }
+  .icon,
+  .icon1,
+  .icon2,
+  .icon3,
+  .icon4 {
+    position: absolute;
+    top: 2740px;
+    left: 1002px;
+    width: 133px;
+    height: 257px;
+    object-fit: cover;
+  }
+  .icon1,
+  .icon2,
+  .icon3,
+  .icon4 {
+    top: 2857px;
+    left: 1166px;
+    width: 135px;
+    height: 256px;
+  }
+  .icon2,
+  .icon3,
+  .icon4 {
+    top: 3108px;
+    left: 220px;
+    width: 126px;
+    height: 250px;
+  }
+  .icon3,
+  .icon4 {
+    top: 3118px;
+    left: 374px;
+    width: 89px;
+    height: 171px;
+  }
+  .icon4 {
+    top: 3058px;
+    left: 506px;
+    width: 119px;
+    height: 231px;
+  }
+  .arrowIcon,
+  .ellipseIcon,
+  .icon5 {
+    position: absolute;
+    top: 3579.59px;
+    left: 820px;
+    width: 193.5px;
+    height: 148.83px;
+    object-fit: contain;
+  }
+  .ellipseIcon,
+  .icon5 {
+    top: 3086px;
+    left: 873px;
+    width: 195.67px;
+    height: 176.84px;
+  }
+  .icon5 {
+    top: 4121px;
+    left: 512px;
+    border-radius: 20px;
+    width: 415px;
+    height: 432px;
+    object-fit: cover;
+  }
+  .uphoria {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 4761px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-darkslateblue-300);
+    font-family: var(--font-khmer);
+  }
+  

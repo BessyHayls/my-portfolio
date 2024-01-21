@@ -1,0 +1,127 @@
+.landingPageChild {
+    position: absolute;
+    top: -28px;
+    left: -16px;
+    background-color: var(--color-blueviolet);
+    width: 1484px;
+    height: 1610px;
+    opacity: 0.3;
+  }
+  .vector17 {
+    position: absolute;
+    top: 80px;
+    left: 0;
+    width: 1440px;
+    height: 711px;
+    object-fit: cover;
+  }
+  .aboutMe,
+  .home,
+  .vasilikiMinou,
+  .work {
+    position: absolute;
+    top: 38px;
+    left: 60px;
+    font-family: var(--font-italiana);
+  }
+  .aboutMe,
+  .home,
+  .work {
+    left: 1082px;
+  }
+  .aboutMe,
+  .work {
+    left: 1187px;
+    cursor: pointer;
+  }
+  .work {
+    left: 1326px;
+  }
+  .heyImVasiliki {
+    margin: 0;
+  }
+  .span {
+    color: #000;
+  }
+  .experiences {
+    color: var(--color-blueviolet);
+  }
+  .sometimesICode {
+    color: var(--color-darkslateblue);
+  }
+  .iDesignUserExperiencesSom {
+    margin: 0;
+    font-size: 40px;
+  }
+  .heyImVasilikiContainer {
+    position: absolute;
+    top: 228px;
+    left: 60px;
+    font-size: 16px;
+  }
+  .youCanBrowse {
+    position: absolute;
+    top: 1008px;
+    left: 60px;
+  }
+  .here,
+  .linkedin {
+    color: var(--color-hotpink);
+  }
+  .here {
+    position: absolute;
+    top: 1022px;
+    left: 296px;
+    cursor: pointer;
+  }
+  .linkedin {
+    top: 1400px;
+    left: 60px;
+    font-size: var(--font-size-17xl);
+  }
+  .email,
+  .landingPageItem,
+  .linkedin {
+    position: absolute;
+    cursor: pointer;
+  }
+  .email {
+    top: 1400px;
+    left: 256px;
+    font-size: var(--font-size-17xl);
+    color: var(--color-hotpink);
+  }
+  .landingPageItem {
+    top: 347px;
+    left: 808px;
+    border-radius: 9px;
+    background-color: var(--color-hotpink);
+    width: 192px;
+    height: 51px;
+    opacity: 0.9;
+  }
+  .aboutMe1 {
+    position: absolute;
+    top: 355px;
+    left: 858px;
+  }
+  .landingPageInner {
+    position: absolute;
+    top: 1024px;
+    left: 48px;
+    width: 257px;
+    height: 1.04px;
+    object-fit: contain;
+  }
+  .landingPage {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1582px;
+    overflow-y: auto;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-darkslateblue);
+    font-family: var(--font-khmer);
+  }
+  
