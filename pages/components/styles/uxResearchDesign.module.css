@@ -17,7 +17,15 @@
     height: 199px;
     object-fit: cover;
   }
-  
+  .dfxIcon {
+    position: absolute;
+    top: 800px;
+    left: 60px;
+    border-radius: 9px;
+    width: 374px;
+    height: 199px;
+    object-fit: cover;
+  }
   .uphoria {
     position: absolute;
     top: 351px;
@@ -52,45 +60,6 @@
     font-size: var(--font-size-mini);
     display: inline-block;
     width: 652px;
-  }
-  .vfrChild {
-    position: absolute;
-    top: 47.86px;
-    left: -151px;
-    border-radius: var(--br-52xl);
-    background-color: #3a3d86;
-    width: 178.7px;
-    height: 290.57px;
-    transform: rotate(-32.06deg);
-    transform-origin: 0 0;
-  }
-  .vfr101Icon {
-    top: 29px;
-    left: 227px;
-    width: 135px;
-    height: 142px;
-    object-fit: cover;
-  }
-  .vfr,
-  .vfr101Icon,
-  .vfr21Icon {
-    position: absolute;
-  }
-  .vfr21Icon {
-    top: 29px;
-    left: 121px;
-    width: 133px;
-    height: 142px;
-    object-fit: cover;
-  }
-  .vfr {
-    top: 849px;
-    left: 60px;
-    border-radius: var(--br-sm);
-    background-color: var(--color-linen);
-    width: 374px;
-    height: 199px;
-    overflow: hidden;
   }
   .uxResearchDesign {
     width: 100%;

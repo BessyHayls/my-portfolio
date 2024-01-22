@@ -40,12 +40,7 @@ const UXResearchDesign: NextPage = () => {
         Introducing an inclusive concept for Dr Martens customers, who struggle
         with finding the perfect shoe and size.
       </div>
-      <div className={styles.vfr}>
-        <div className={styles.vfrChild} />
-        <img className={styles.vfr101Icon} alt="" src="/vfr10-1@2x.png" />
-        <img className={styles.vfr21Icon} alt="" src="/vfr2-1@2x.png" />
-        <div className={styles.uxResearchDesignBoxChild} />
-      </div>
+      <img className={styles.dfxIcon} alt="" src="dfx-1@2x.png" />
     </div>
   );
 };
