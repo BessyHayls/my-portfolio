@@ -29,7 +29,7 @@
   position: absolute;
   top: 814px;
   left: 370px;
-  border-radius: var(--br-4xs);
+  border-radius: 9px;
   background-color: #e4538c;
   width: 192px;
   height: 51px;
@@ -45,7 +45,7 @@
   position: absolute;
   top: 198px;
   left: 60px;
-  border-radius: var(--br-4xs);
+  border-radius: 9px;
   width: 116px;
   height: 155px;
   object-fit: cover;
