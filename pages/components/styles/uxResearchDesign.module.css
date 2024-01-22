@@ -8,55 +8,16 @@
     object-fit:contain;
     opacity: 0.84;
   }
-  .euphoriaChild {
-    top: 2.86px;
-    left: 169.39px;
-    border-radius: var(--br-52xl);
-    background-color: #6279ff;
-    width: 178.7px;
-    height: 290.57px;
-    transform: rotate(-32.06deg);
-    transform-origin: 0 0;
-  }
-  .icon,
-  .icon1 {
+  .uphoriaBoxIcon {
     position: absolute;
-    top: 23px;
-    left: 214px;
-    width: 66px;
-    height: 130px;
+    top: 300px;
+    left: 60px;
+    border-radius: 9px;
+    width: 374px;
+    height: 199px;
     object-fit: cover;
   }
-  .icon1 {
-    top: 46px;
-    left: 285px;
-    width: 67px;
-    height: 131px;
-  }
-  .euphoria,
-  .uxResearchDesignBoxChild {
-    position: absolute;
-    top: 0;
-    left: 0;
-    border-radius: var(--br-sm);
-    width: 374px;
-    height: 199px;
-  }
-  .euphoria {
-    background-color: var(--color-linen);
-    overflow: hidden;
-  }
-  .uxResearchDesignBoxChild {
-    background-color: var(--color-aliceblue);
-    opacity: 0.25;
-  }
-  .uxResearchDesignBox {
-    position: absolute;
-    top: 351px;
-    left: 60px;
-    width: 374px;
-    height: 199px;
-  }
+  
   .uphoria {
     position: absolute;
     top: 351px;

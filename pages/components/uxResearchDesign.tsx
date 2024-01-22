@@ -18,18 +18,7 @@ const UXResearchDesign: NextPage = () => {
         alt=""
         src="/vector-3.svg"
       />
-      <div className={styles.uxResearchDesignBox}>
-        <div className={styles.euphoria}>
-          <div className={styles.euphoriaChild} />
-          <img className={styles.icon} alt="" src="/31661652173835--3@2x.png" />
-          <img
-            className={styles.icon1}
-            alt=""
-            src="/31641652173833--3@2x.png"
-          />
-        </div>
-        <div className={styles.uxResearchDesignBoxChild} />
-      </div>
+      <img className={styles.uphoriaBoxIcon} alt="" src="uphoriaBox-1@2x.png" />
       <div className={styles.uphoria} onClick={onUphoriaTextClick}>
         Uphoria
       </div>
