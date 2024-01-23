@@ -21,6 +21,22 @@
     height: 199px;
     object-fit: cover;
   }
+  .creativeBox {
+    position: absolute;
+    top: 900px;
+    left: 85px;
+    width: 374;
+    height: 199px;
+    object-fit: cover;
+  }
+  .automotiveBox {
+    position: absolute;
+    top: 1490px;
+    left: 85px;
+    width: 374;
+    height: 199px;
+    object-fit: cover;
+  }
   .groupChild {
     top: 0;
     left: 0;

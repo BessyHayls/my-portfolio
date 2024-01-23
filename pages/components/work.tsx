@@ -12,6 +12,8 @@ const Work: NextPage = () => {
       <div className={styles.workChild} />
       <img className={styles.workItem} alt="" src="/vector-2.svg" />
       <img className={styles.uphoriaBox} alt="" src="/uphoriaBox-1@2x.png" />
+      <img className={styles.creativeBox} alt="" src="/creativeBox.png" />
+      <img className={styles.automotiveBox} alt="" src="/automotiveBox.png" />
       <div className={styles.automotiveDesignBox}>
         <div className={styles.automotive}>
           <div className={styles.automotiveChild} />
