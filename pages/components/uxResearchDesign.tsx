@@ -37,8 +37,8 @@ const UXResearchDesign: NextPage = () => {
         Designing for experiences
       </div>
       <div className={styles.introducingAnInclusive}>
-        Introducing an inclusive concept for Dr Martens customers, who struggle
-        with finding the perfect shoe and size.
+        Introducing an inclusive concept for online and in-store Dr Martens customers, who struggle
+        to find the perfect shoe and size.
       </div>
       <img className={styles.dfxIcon} alt="" src="dfx-1@2x.png" />
     </div>

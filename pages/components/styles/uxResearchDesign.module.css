@@ -30,6 +30,7 @@
     position: absolute;
     top: 351px;
     left: 479px;
+    font-size: 25px;
     font-family: var(--font-khmer);
     color: var(--color-blueviolet);
     cursor: pointer;
@@ -49,9 +50,14 @@
     position: absolute;
     left: 479px;
     font-family: var(--font-khmer);
+    color: var(--color-darkslateblue-200);
+    font-size: 18px;
+    width: 1000px;
   }
   .designingForExperiences {
     top: 849px;
+    font-size: 25px;
+    font-family: var(--font-khmer);
     color: var(--color-blueviolet);
     cursor: pointer;
   }
@@ -59,6 +65,7 @@
     top: 911px;
     font-size: var(--font-size-mini);
     display: inline-block;
+    font-size: 18px;
     width: 652px;
   }
   .uxResearchDesign {
