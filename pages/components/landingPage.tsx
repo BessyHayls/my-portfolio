@@ -60,7 +60,6 @@ const LandingPage: NextPage = () => {
       </div>
       <div className={styles.landingPageItem} onClick={onRectangle1Click} />
       <div className={styles.aboutMe1}>About Me</div>
-      <img className={styles.landingPageInner} alt="" src="/line-32.svg" />
     </div>
     </>
   );

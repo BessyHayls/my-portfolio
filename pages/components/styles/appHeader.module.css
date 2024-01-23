@@ -1,7 +1,6 @@
 .appBar {
     width: 100%;
     position:fixed;
-    background-color: #fff;
     height: 100px;
     overflow: hidden;
     text-align: left;
