@@ -28,6 +28,7 @@
     top: 430px;
     left: 60px;
     color: var(--color-blueviolet);
+    font-size: 25px;
   }
   .skills {
     color: var(--color-darkslateblue-100);
@@ -38,7 +39,7 @@
   .skillsUserResearchContainer {
     position: absolute;
     top: 197px;
-    right: 100px;
+    right: 200px;
     font-size: var(--font-size-mini);
     white-space: pre-wrap;
     display: inline-block;
@@ -47,9 +48,9 @@
   .uphoriaLogo1 {
     position: absolute;
     top: 197px;
-    left: 18px;
-    width: 138px;
-    height: 79px;
+    left: 52px;
+    width: 276px;
+    height: 158px;
     object-fit: cover;
   }
   .researchApproach,
@@ -60,10 +61,11 @@
   }
   .uphoria1 {
     top: 286px;
-    font-size: 24px;
+    font-size: 25px;
   }
   .researchApproach {
     top: 656px;
+    font-size: 25px;
   }
   .withAWide {
     position: absolute;
@@ -89,6 +91,7 @@
     top: 960px;
     color: var(--color-blueviolet);
     width: 80vw;
+    font-size: 25px;
   }
   .theFindingsFromContainer {
     top: 1007px;
@@ -617,6 +620,7 @@
     top: 2706px;
     left: 60px;
     color: var(--color-blueviolet);
+    font-size: 25px;
   }
   .anOnlineCommunityContainer {
     position: absolute;
@@ -631,6 +635,7 @@
     top: 3741px;
     left: 60px;
     color: var(--color-blueviolet);
+    font-size: 25px;
   }
   .eachUserOnContainer,
   .theStudyAcknowledgesContainer {
@@ -651,6 +656,7 @@
     top: 2029px;
     left: 60px;
     color: var(--color-blueviolet);
+    font-size: 25px;
   }
   .analysingTheCustomer {
     position: absolute;
