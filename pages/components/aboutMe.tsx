@@ -23,7 +23,7 @@ const AboutMe: NextPage = () => {
         </p>
         <p className={styles.heyThereIm}>&nbsp;</p>
         <p className={styles.heyThereIm}>
-          Professionally, I've worn the hat of a Software Engineer at JP Morgan
+          Professionally, I've worked as a Software Engineer at JP Morgan
           Chase, where I've delved into the realms of PaaS, SaaS, and Agile
           Delivery. Navigating the coding landscape has been exciting, and I
           find joy in bringing innovative solutions to the financial realm.
