@@ -14,34 +14,17 @@ const Work: NextPage = () => {
       <img className={styles.uphoriaBox} alt="" src="/uphoriaBox-1@2x.png" />
       <img className={styles.creativeBox} alt="" src="/creativeBox.png" />
       <img className={styles.automotiveBox} alt="" src="/automotiveBox.png" />
-      <div className={styles.automotiveDesignBox}>
-        <div className={styles.automotive}>
-          <div className={styles.automotiveChild} />
-        </div>
-        <div className={styles.automotiveDesignBoxChild} />
-      </div>
-      <div className={styles.creativeDesignBox}>
-        <div className={styles.automotive}>
-        </div>
-        <div className={styles.automotiveDesignBoxChild} />
-      </div>
-      <div className={styles.uxResearchDesignBox}>
-        <div className={styles.automotive}>
-          <div className={styles.euphoriaChild} />
-        </div>
-        <div className={styles.automotiveDesignBoxChild} />
-      </div>
       <div className={styles.rectangleParent} onClick={onGroupContainerClick}>
         <div className={styles.groupChild} />
         <div className={styles.uxResearch}>{`UX Research & Design`}</div>
       </div>
-      <div className={styles.rectangleGroup}>
+      <div className={styles.rectangleGroup} onClick={onGroupContainerClick}>
         <div className={styles.groupChild} />
-        <div className={styles.automotiveDesign}>Automotive Design</div>
+        <div className={styles.automotiveDesign}>{'Automotive Design'}</div>
       </div>
-      <div className={styles.rectangleContainer}>
+      <div className={styles.rectangleContainer} onClick={onGroupContainerClick}>
         <div className={styles.groupChild} />
-        <div className={styles.creativeDesign}>Creative Design</div>
+        <div className={styles.creativeDesign}>{'Creative Design'}</div>
       </div>
     </div>
   );
