@@ -8,10 +8,8 @@
     font-size: var(--font-size-xl);
     color: var(--color-darkslateblue);
     font-family: var(--font-italiana);
-    background-color: var(--color-linen);
     z-index: 1000;
 }
-
 .vasilikiMinou {
     left: 60px;
 }

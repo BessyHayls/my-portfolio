@@ -30,7 +30,7 @@ const LandingPage: NextPage = () => {
   return (<>
     <div className={styles.landingPage}>
       <div className={styles.landingPageChild} />
-      <img className={styles.vector17} alt="" src="/vector-1-7@2x.png" />
+      <img className={styles.vector17} alt="" src="/vector-landing.png" />
       <div className={styles.heyImVasilikiContainer}>
         <p className={styles.heyImVasiliki}>
           <span>

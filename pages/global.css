@@ -21,11 +21,11 @@ body {
   --color-blueviolet: #5e3bee;
   --color-darkslateblue-100: #3a3d86;
   --color-darkslateblue-200: #1c1e53;
-  --color-blueviolet: #5e3bee;
   --color-linen: #f9efe9;
 
   /* Border radiuses */
   --br-lgi: 19px;
   --br-sm: 14px;
   --br-52xl: 71px;
+  --br-4xs: 9px;
 }
