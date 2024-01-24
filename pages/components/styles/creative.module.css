@@ -1,17 +1,21 @@
-.creativeInner,
+
 .creativeItem {
   position: absolute;
   top: 1751px;
-  right: 0px;
-  width: 1358.55px;
-  height: 2563.21px;
+  right: -200px;
+  width: 800px;
+  height: 2200px;
   object-fit: fill;
   opacity: 0.84;
 }
 .creativeInner {
-  top: 68px;
+  position: absolute;
+  top: 88px;
+  left: -250px;
   width: 1097.15px;
   height: 1181.09px;
+  object-fit: fill;
+  opacity: 0.84;
 }
 .exploreASpecial,
 .illustrations {
@@ -23,12 +27,14 @@
   top: 286px;
   font-size: 24px;
   color: #5e3bee;
+  font-size: 25px;
 }
 .exploreASpecial {
-  top: 386px;
+  top: 346px;
   font-size: 15px;
   display: inline-block;
   width: 80vw;
+  font-size: 17px;
 }
 .creativeChild1,
 .creativeChild2,
@@ -70,14 +76,6 @@
   height: 430px;
   display: none;
   opacity: 0.3;
-}
-.arrowIcon {
-  position: absolute;
-  top: 3579.59px;
-  left: 820px;
-  width: 193.5px;
-  height: 148.83px;
-  object-fit: contain;
 }
 .creativeChild4 {
   position: absolute;

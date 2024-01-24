@@ -3,13 +3,6 @@
   position: absolute;
   opacity: 0.84;
 }
-.dfxItem {
-  top: 3460px;
-  left: -521px;
-  width: 1435.05px;
-  height: 1234.62px;
-  object-fit: contain;
-}
 .logo1Icon {
   position: absolute;
   top: 192px;
@@ -18,7 +11,6 @@
   height: 109px;
   object-fit: cover;
 }
-
 .aboutMe {
   left: 1187px;
 }
@@ -32,6 +24,7 @@
   top: 430px;
   left: 60px;
   color: var(--color-blueviolet);
+  font-size: 25px;
 }
 .skills {
   color: var(--color-darkslateblue-100);
@@ -42,7 +35,7 @@
 .skillsUserResearchContainer {
   position: absolute;
   top: 209px;
-  right: 100px;
+  right: 230px;
   white-space: pre-wrap;
   display: inline-block;
   width: 395px;
@@ -56,10 +49,12 @@
 .designForExperiences {
   top: 286px;
   font-size: 24px;
+  font-size: 25px;
 }
 .researchApproach {
   top: 707px;
   font-size: var(--font-size-xl);
+  font-size: 25px;
 }
 .drMartensAlso {
   position: absolute;
@@ -67,10 +62,12 @@
   left: 60px;
   display: inline-block;
   width: 80vw;
+  font-size: 17px;
 }
 .theCompanysOriginalContainer {
   top: 754px;
   width: 80vw;
+  font-size: 17px;
 }
 .personaCustomer,
 .theCompanysOriginalContainer,
@@ -83,10 +80,12 @@
   top: 1062px;
   font-size: var(--font-size-xl);
   color: var(--color-blueviolet);
+  font-size: 25px;
 }
 .whileTheCompany {
   top: 1109px;
   width: 80vw;
+  font-size: 17px;
 }
 .dfxChild1,
 .dfxInner,
@@ -114,6 +113,7 @@
   left: 804px;
   display: inline-block;
   width: 40vw;
+  font-size: 17px;
 }
 .oneDayAs {
   top: 1788px;
@@ -129,17 +129,13 @@
   height: 344px;
   object-fit: cover;
 }
-.insertAnimation,
 .solutions {
   position: absolute;
   top: 2543px;
   left: 60px;
   font-size: var(--font-size-xl);
   color: var(--color-blueviolet);
-}
-.insertAnimation {
-  top: 3530px;
-  left: 641px;
+  font-size: 25px;
 }
 .whenAddressingTheContainer {
   position: absolute;
@@ -147,8 +143,8 @@
   left: 60px;
   display: inline-block;
   width: 80vw;
+  font-size: 17px;
 }
-.arrowIcon,
 .persona1Icon {
   position: absolute;
   top: 3579.59px;
@@ -172,6 +168,7 @@
   color: var(--color-darkslateblue-100);
   display: inline-block;
   width: 492px;
+  font-size: 18px;
 }
 .uncertaintyAboutWhetherShoe {
   margin-bottom: 0;
@@ -188,18 +185,19 @@
   top: 2150px;
   left: 51px;
   color: var(--color-darkslateblue-100);
+  font-size: 17px;
 }
 .vfr11Icon,
 .vfr31Icon {
   position: absolute;
   top: 2936px;
-  left: 211px;
+  left: 361px;
   width: 454px;
   height: 310px;
   object-fit: cover;
 }
 .vfr11Icon {
-  left: 752px;
+  left: 902px;
   width: 360px;
   height: 301px;
 }
@@ -207,11 +205,19 @@
 .virtualFittingRoom {
   position: absolute;
   top: 3249px;
-  left: 367px;
+  left: 517px;
   color: var(--color-darkslateblue-100);
 }
 .virtualFittingRoom {
-  left: 861px;
+  left: 1011px;
+}
+.vfrAnimation {
+  position: absolute;
+  top: 3336px;
+  left: 591px;
+  width: 454px;
+  height: 460px;
+  object-fit: cover;
 }
 .dfx {
   width: 100%;

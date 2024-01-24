@@ -18,18 +18,7 @@ const UXResearchDesign: NextPage = () => {
         alt=""
         src="/vector-3.svg"
       />
-      <div className={styles.uxResearchDesignBox}>
-        <div className={styles.euphoria}>
-          <div className={styles.euphoriaChild} />
-          <img className={styles.icon} alt="" src="/31661652173835--3@2x.png" />
-          <img
-            className={styles.icon1}
-            alt=""
-            src="/31641652173833--3@2x.png"
-          />
-        </div>
-        <div className={styles.uxResearchDesignBoxChild} />
-      </div>
+      <img className={styles.uphoriaBoxIcon} alt="" src="uphoriaBox-1@2x.png" />
       <div className={styles.uphoria} onClick={onUphoriaTextClick}>
         Uphoria
       </div>
@@ -48,15 +37,10 @@ const UXResearchDesign: NextPage = () => {
         Designing for experiences
       </div>
       <div className={styles.introducingAnInclusive}>
-        Introducing an inclusive concept for Dr Martens customers, who struggle
-        with finding the perfect shoe and size.
+        Introducing an inclusive concept for online and in-store Dr Martens customers, who struggle
+        to find the perfect shoe and size.
       </div>
-      <div className={styles.vfr}>
-        <div className={styles.vfrChild} />
-        <img className={styles.vfr101Icon} alt="" src="/vfr10-1@2x.png" />
-        <img className={styles.vfr21Icon} alt="" src="/vfr2-1@2x.png" />
-        <div className={styles.uxResearchDesignBoxChild} />
-      </div>
+      <img className={styles.dfxIcon} alt="" src="dfx-1@2x.png" />
     </div>
   );
 };

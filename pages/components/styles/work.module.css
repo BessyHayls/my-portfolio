@@ -9,109 +9,33 @@
     top: 30px;
     right: -450px;
     height: 2503.27px;
-    object-fit:fill;
+    object-fit: fill;
     opacity: 0.84;
-    width: 100vw;
+    width: 50vw;
   }
-  .automotiveChild {
-    top: 47.86px;
-    left: -151px;
-    border-radius: var(--br-52xl);
-    background-color: #3a3d86;
-    width: 178.7px;
-    height: 290.57px;
-    transform: rotate(-32.06deg);
-    transform-origin: 0 0;
-  }
-  .automotive21Icon {
+  .uphoriaBox {
     position: absolute;
-    top: 25px;
-    left: -15px;
-    width: 279px;
-    height: 197px;
+    top: 310px;
+    left: 85px;
+    width: 374;
+    height: 199px;
     object-fit: cover;
   }
-  .automotive,
-  .automotiveDesignBoxChild {
+  .creativeBox {
     position: absolute;
-    top: 0;
-    left: 0;
-    border-radius: var(--br-sm);
-    width: 374px;
+    top: 900px;
+    left: 85px;
+    width: 374;
     height: 199px;
-  }
-  .automotive {
-    background-color: var(--color-linen);
-    overflow: hidden;
-  }
-  .automotiveDesignBoxChild {
-    background-color: var(--color-aliceblue);
-    opacity: 0.25;
-  }
-  .automotiveDesignBox,
-  .creativeChild {
-    position: absolute;
-    top: 1471px;
-    left: 59px;
-    width: 374px;
-    height: 199px;
-  }
-  .creativeChild {
-    top: -144px;
-    left: 100px;
-    border-radius: var(--br-52xl);
-    width: 339.95px;
-    height: 316.17px;
-    object-fit: contain;
-  }
-  .savvaki31Icon {
-    position: absolute;
-    top: 0;
-    left: -3px;
-    width: 148px;
-    height: 191px;
     object-fit: cover;
   }
-  .creativeDesignBox,
-  .euphoriaChild {
+  .automotiveBox {
     position: absolute;
-    top: 892px;
-    left: 75px;
-    width: 374px;
+    top: 1490px;
+    left: 85px;
+    width: 374;
     height: 199px;
-  }
-  .euphoriaChild {
-    top: 2.86px;
-    left: 169.39px;
-    border-radius: var(--br-52xl);
-    background-color: #6279ff;
-    width: 178.7px;
-    height: 290.57px;
-    transform: rotate(-32.06deg);
-    transform-origin: 0 0;
-  }
-  .icon,
-  .icon1 {
-    position: absolute;
-    top: 23px;
-    left: 214px;
-    width: 66px;
-    height: 130px;
     object-fit: cover;
-  }
-  .icon1 {
-    top: 46px;
-    left: 285px;
-    width: 67px;
-    height: 131px;
-  }
-  .groupChild,
-  .uxResearchDesignBox {
-    position: absolute;
-    top: 313px;
-    left: 75px;
-    width: 374px;
-    height: 199px;
   }
   .groupChild {
     top: 0;

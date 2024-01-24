@@ -6,10 +6,10 @@
   }
   .vector17 {
     position: absolute;
-    top: 102px;
-    width: 100vw;
+    top: 0px;
+    width: 99vw;
     height: 1000px;
-    object-fit: cover;
+    object-fit:unset;
   }
   .heyImVasiliki {
     margin: 0;
@@ -78,6 +78,7 @@
     position: absolute;
     top: 355px;
     left: 858px;
+    cursor: pointer;
   }
   .landingPageInner {
     position: absolute;
@@ -92,7 +93,6 @@
     position: relative;
     background-color: #fff;
     height: 1582px;
-    overflow-y: auto;
     text-align: left;
     font-size: var(--font-size-xl);
     color: var(--color-darkslateblue);
