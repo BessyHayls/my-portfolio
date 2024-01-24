@@ -1,8 +1,15 @@
 import type { NextPage } from "next";
 
 import styles from "./styles/aboutMe.module.css";
+import { useCallback } from "react";
+
+
 
 const AboutMe: NextPage = () => {
+
+  const onWorkTextClick = useCallback(() => {
+    window.location.href = "google.com"
+  }, []);
 
   return (
     <div className={styles.aboutMe}>
@@ -19,7 +26,7 @@ const AboutMe: NextPage = () => {
           After my physics escapades, I took a leap into the world of design and
           arts. Now, armed with a mix of analytical thinking and creative flair,
           I love exploring the intersection of technology and arts in my own
-          time.
+          time. 
         </p>
         <p className={styles.heyThereIm}>&nbsp;</p>
         <p className={styles.heyThereIm}>
@@ -37,7 +44,8 @@ const AboutMe: NextPage = () => {
         <p className={styles.blankLine3}>&nbsp;</p>
       </div>
       <div className={styles.aboutMeItem} />
-      <div className={styles.myResume}>My Resume</div>
+      <a className={styles.myResume} href='/creativeBox.png' download>My Resume</a>
+      {/* todo - need to change the href to link to pdf of the resume*/}
       <img className={styles.prof31Icon} alt="" src="/prof3-1@2x.png" />
     </div>
   );

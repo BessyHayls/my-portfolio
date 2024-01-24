@@ -4,7 +4,7 @@ import styles from "./styles/landingPage.module.css";
 
 const LandingPage: NextPage = () => {
   const onAboutMeTextClick = useCallback(() => {
-    // Please sync "About Me" to the project
+    window.scrollTo(0, 1000);
   }, []);
 
   const onWorkTextClick = useCallback(() => {
@@ -24,7 +24,7 @@ const LandingPage: NextPage = () => {
   }, []);
 
   const onRectangle1Click = useCallback(() => {
-    // Please sync "About Me" to the project
+    window.scrollTo(0, 1500);
   }, []);
 
   return (<>
@@ -59,7 +59,7 @@ const LandingPage: NextPage = () => {
         Email
       </div>
       <div className={styles.landingPageItem} onClick={onRectangle1Click} />
-      <div className={styles.aboutMe1}>About Me</div>
+      <div className={styles.aboutMe1 } onClick={onRectangle1Click}>About Me</div>
     </div>
     </>
   );
