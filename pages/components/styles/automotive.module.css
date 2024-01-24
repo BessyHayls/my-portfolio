@@ -1,9 +1,16 @@
+.formulaStudent {
+  position: absolute;
+  top: 58px;
+  left: 60px;
+  font-size: 25px;
+  color: var(--color-blueviolet);
+}
 .aerodynamicsDesign,
 .ergonomicsDesign {
   position: absolute;
   top: 558px;
   left: 60px;
-  font-size: var(--font-size-5xl);
+  font-size: 25px;
   color: var(--color-blueviolet);
 }
 .ergonomicsDesign {
@@ -14,7 +21,7 @@
   position: absolute;
   top: 289px;
   left: 60px;
-  font-size: var(--font-size-mini);
+  font-size: 17px;
   display: inline-block;
   width: 770px;
 }
@@ -30,7 +37,7 @@
   position: absolute;
   top: 1918px;
   left: 753px;
-  font-size: var(--font-size-mini);
+  font-size: 17px;
   display: inline-block;
   width: 620px;
 }
@@ -48,7 +55,6 @@
   top: 2319px;
   height: 350px;
 }
-.arrowIcon,
 .fw1Icon {
   position: absolute;
   top: 3579.59px;
@@ -64,8 +70,7 @@
   height: 232px;
   object-fit: cover;
 }
-.car1Icon,
-.grayscaleFilter {
+.car1Icon {
   position: absolute;
   top: 279px;
   left: 998px;

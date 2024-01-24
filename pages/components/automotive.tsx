@@ -5,6 +5,7 @@ const Automotive: NextPage = () => {
   return (
     <div className={styles.automotive}>
       <div className={styles.automotiveChild} />
+      <div className={styles.formulaStudent}>Formula Student</div>
       <div className={styles.aerodynamicsDesign}>Aerodynamics Design</div>
       <div className={styles.ergonomicsDesign}>Ergonomics Design</div>
       <div className={styles.asAMechanical}>
@@ -48,7 +49,6 @@ const Automotive: NextPage = () => {
       </div>
       <div className={styles.automotiveItem} />
       <div className={styles.automotiveInner} />
-      <img className={styles.arrowIcon} alt="" src="/arrow-3.svg" />
       <img className={styles.fw1Icon} alt="" src="/fw-1@2x.png" />
       <img className={styles.car1Icon} alt="" src="/car-1@2x.png" />
       <div className={styles.grayscaleFilter} />
