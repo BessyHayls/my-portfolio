@@ -5,7 +5,6 @@ const DFX: NextPage = () => {
   return (
     <div className={styles.dfx}>
       <div className={styles.dfxChild} />
-      <img className={styles.dfxItem} alt="" src="/vector-5.svg" />
       <img className={styles.logo1Icon} alt="" src="/logo-1@2x.png" />
       <div className={styles.aboutDrMartens}>About Dr Martens</div>
       <div className={styles.skillsUserResearchContainer}>
@@ -57,7 +56,7 @@ const DFX: NextPage = () => {
       <div className={styles.whileTheCompany}>
         While the company aims to appeal to a diverse audience of all ages,
         genders, and professions, our focal point for this project centers on a
-        persona that aligns with the brand's primary customer base—primarily
+        persona that aligns with the brand's primary customer base; primarily
         young individuals in the creative industries. Meet Alex, a 38-year-old
         flute teacher residing in Paris and proud owner of the iconic Dr.
         Martens 1460 boots.
@@ -99,7 +98,6 @@ const DFX: NextPage = () => {
         src="/customer-journey-map-3@2x.png"
       />
       <div className={styles.solutions}>Solutions</div>
-      <div className={styles.insertAnimation}>Insert Animation</div>
       <div className={styles.whenAddressingTheContainer}>
         <p className={styles.skillsUserResearchCustome}>
           When addressing the needs of online shoppers who seek a comprehensive
@@ -121,7 +119,6 @@ const DFX: NextPage = () => {
           shoes by visualizing how they complement different looks.
         </p>
       </div>
-      <img className={styles.arrowIcon} alt="" src="/arrow-3.svg" />
       <img className={styles.persona1Icon} alt="" src="/persona-1@2x.png" />
       <div className={styles.mainPainPoints}>Main Pain Points</div>
       <div className={styles.differentNeedsForContainer}>
@@ -144,6 +141,7 @@ const DFX: NextPage = () => {
       <img className={styles.vfr11Icon} alt="" src="/vfr-11@2x.png" />
       <div className={styles.onlineFittingRoom}>Online Fitting Room</div>
       <div className={styles.virtualFittingRoom}>Virtual Fitting Room</div>
+      <video className={styles.vfrAnimation} typeof="video/mp4" loop src="/vfr-animation.mp4" />
     </div>
   );
 };
