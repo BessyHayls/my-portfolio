@@ -21,7 +21,6 @@ const Creative: NextPage = () => {
       <div className={styles.creativeChild2} />
       <img className={styles.niouniou21Icon} alt="" src="/niouniou2-1@2x.png" />
       <div className={styles.creativeChild3} />
-      <img className={styles.arrowIcon} alt="" src="/arrow-3.svg" />
       <div className={styles.creativeChild4} />
       <img className={styles.savvaki33Icon} alt="" src="/savvaki3-1@2x.png" />
       <img
