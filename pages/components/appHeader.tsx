@@ -7,11 +7,15 @@ import styles from "./styles/appHeader.module.css";
 const AppHeader: NextPage = () => {
 
     const onHomeTextClick = useCallback(() => {
-        // Please sync "Landing Page" to the project
+        window.scrollTo(0, 0);
+      }, []);
+
+      const onAboutMeTextClick = useCallback(() => {
+        window.scrollTo(0, 1500);
       }, []);
     
       const onWorkTextClick = useCallback(() => {
-        // Please sync "Work" to the project
+        window.scrollTo(0, 2620);
       }, []);
 
     return (<div className={styles.appBar}>
@@ -19,7 +23,7 @@ const AppHeader: NextPage = () => {
         <div className={styles.home} onClick={onHomeTextClick}>
         Home
         </div>
-        <div className={styles.aboutMe1}>About Me</div>
+        <div className={styles.aboutMe1} onClick={onAboutMeTextClick}>About Me</div>
         <div className={styles.work} onClick={onWorkTextClick}>
         Work
         </div>

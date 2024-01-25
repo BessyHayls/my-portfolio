@@ -44,7 +44,7 @@ const AboutMe: NextPage = () => {
         <p className={styles.blankLine3}>&nbsp;</p>
       </div>
       <div className={styles.aboutMeItem} />
-      <a className={styles.myResume} href='/creativeBox.png' download>My Resume</a>
+      <a className={styles.myResume} href='/VasilikiMinouResume.pdf' download>My Resume</a>
       {/* todo - need to change the href to link to pdf of the resume*/}
       <img className={styles.prof31Icon} alt="" src="/prof3-1@2x.png" />
     </div>

@@ -4,15 +4,15 @@ import styles from "./styles/work.module.css";
 
 const Work: NextPage = () => {
   const onUXResearchClick = useCallback(() => {
-    // Please sync "UX Research & Design" to the project
-  }, []);
-
-  const onAutomotiveClick = useCallback(() => {
-    // Please sync "DFX" to the project
+    window.scrollTo(0, 4800);
   }, []);
 
   const onCreativeClick = useCallback(() => {
-    // Please sync "DFX" to the project
+    window.scrollTo(0, 15200);
+  }, []);
+
+  const onAutomotiveClick = useCallback(() => {
+    window.scrollTo(0, 19200);
   }, []);
 
   return (

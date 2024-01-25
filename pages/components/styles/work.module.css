@@ -66,6 +66,7 @@
     position: absolute;
     top: 5px;
     left: 33px;
+    cursor: pointer;
   }
   .rectangleGroup {
     top: 1570px;
@@ -77,6 +78,7 @@
     position: absolute;
     top: 5px;
     left: 52px;
+    cursor: pointer;
   }
   .rectangleContainer {
     position: absolute;
@@ -84,6 +86,7 @@
     left: 527px;
     width: 224px;
     height: 34.33px;
+    cursor: pointer;
   }
   .work {
     width: 100%;

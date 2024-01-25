@@ -4,11 +4,11 @@ import styles from "./styles/uxResearchDesign.module.css";
 
 const UXResearchDesign: NextPage = () => {
   const onUphoriaTextClick = useCallback(() => {
-    // Please sync "Uphoria" to the project
+    window.scrollTo(0, 6260);
   }, []);
 
   const onDesigningForExperiencesClick = useCallback(() => {
-    // Please sync "DFX" to the project
+    window.scrollTo(0, 10980);
   }, []);
 
   return (
