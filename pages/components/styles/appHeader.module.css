@@ -26,6 +26,7 @@
 .aboutMe1,
 .work {
     right: 200px;
+    cursor: pointer;
 }
 .work {
     right: 100px;

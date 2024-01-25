@@ -3,16 +3,8 @@ import { useCallback } from "react";
 import styles from "./styles/landingPage.module.css";
 
 const LandingPage: NextPage = () => {
-  const onAboutMeTextClick = useCallback(() => {
-    window.scrollTo(0, 1000);
-  }, []);
-
-  const onWorkTextClick = useCallback(() => {
-    // Please sync "Work" to the project
-  }, []);
-
   const onHereTextClick = useCallback(() => {
-    // Please sync "Work" to the project
+    window.scrollTo(0, 2620);
   }, []);
 
   const onLinkedInTextClick = useCallback(() => {
