@@ -12,7 +12,7 @@ const LandingPage: NextPage = () => {
   }, []);
 
   const onEmailTextClick = useCallback(() => {
-    window.location.href = "mailto:vasilikiminou|@gmail.com";
+    window.location.href = "mailto:vasilikiminou@gmail.com";
   }, []);
 
   const onRectangle1Click = useCallback(() => {
