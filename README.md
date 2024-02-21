@@ -1,3 +1,8 @@
+My UX Design and Reseach online portfolio, initially designed in Figma and later developed as a React static app hosted on Vercel.
+
+Thanks to Charlie Maunder for helping me bring this project to life!
+
+my portfolio link: https://vasiliki-minou-portfolio.vercel.app/ (currently optimised only for desktop mode)
 
   # locofy-react-nextjs-project
 
